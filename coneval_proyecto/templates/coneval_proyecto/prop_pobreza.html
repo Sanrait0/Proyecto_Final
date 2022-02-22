@@ -1,0 +1,53 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700;900&display=swap" rel="stylesheet">
+    <title>Pobreza en tu estado</title>
+    <link rel="stylesheet" href="{% static 'coneval_proyecto/prop_pobreza.css' %}">
+</head>
+<body class="elementos-conteiner">
+    <header class="header">
+        <h1>
+            Blog sobre la metodología de medición multidimensional de la pobreza en México
+        </h1>
+    </header>
+
+    <nav class="navbar">
+        <a href="#" class="logo nav-link">
+            <img src="{% static 'coneval_proyecto/logo.png' %}" alt="Logo">
+        </a>
+        <ul class="nav-menu">
+            <li class="nav-menu-item">
+                <a href="index" class="nav-menu-link nav-link">Inicio</a>
+            </li>
+            <li class="nav-menu-item">
+                <a href="carencias" class="nav-menu-link nav-link">definición de carencias sociales</a>
+            </li>
+            <li class="nav-menu-item">
+                <a href="m_clasificacion" class="nav-menu-link nav-link">método de clasificación de la pobreza</a>
+            </li>
+        </ul>
+    </nav>
+
+    <article class="main">
+        <form action="prop_pobreza.html" method="get">
+            <h1> Enviar </h1>
+
+             <label for="state">Entidad Federativa:</label>
+              <select id="estado" name="entidad_federativa">
+              </select>
+
+            <button type="submit">Enviar</button>
+
+        </form>
+
+    </article>
+    <!-- <script src="{% static 'coneval_proyecto/apps.js' %}"></script> -->
+</body>
+</html>

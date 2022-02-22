@@ -1,0 +1,60 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700;900&display=swap" rel="stylesheet">
+    <title>Principal</title>
+    <link rel="stylesheet" href="{% static 'coneval_proyecto/style.css' %}">
+</head>
+<body class="elementos-conteiner">
+    <header class="header">
+        <h1>
+            Blog sobre la metodología de medición multidimensional de la pobreza en México
+        </h1>
+    </header>
+    <nav class="navbar">
+        <a href="#" class="logo nav-link">
+            <img src="{% static 'coneval_proyecto/logo.png' %}" alt="Logo">
+        </a>
+        <ul class="nav-menu">
+            <li class="nav-menu-item">
+                <a href="carencias" class="nav-menu-link nav-link">definición de carencias sociales</a>
+            </li>
+            <li class="nav-menu-item">
+                <a href="m_clasificacion" class="nav-menu-link nav-link">método de clasificación de la pobreza</a>
+            </li>
+             <li class="nav-menu-item">
+                <a href="prop_pobreza" class="nav-menu-link nav-link">¿Cuál es la proporción de pobreza en tu municipio?</a>
+            </li>
+        </ul>
+    </nav>
+    <aside class="sidebar">
+
+        <div class="sidebar-conteiner">
+            <img src="{% static 'coneval_proyecto/logo inegi.png' %}" alt="logo_inegi" class="logo_inegi">
+            <article>
+                    <p>CONEVAL usa la información generada por el Instituto Nacional de Estadística y Geografía (INEGI) en los Censos y Conteos de población y vivienda para calcular sus indicadores, los cuales ayudan a determinar si una persona se encuentra en situación de pobreza o no.</p>
+            </article>
+        </div>
+    </aside>
+    <article class="main">
+        <div class="main-conteiner">
+            <h2>¿Qué es el CONEVAL?</h2>
+            <article>
+                <p>
+                    El Consejo Nacional de Evaluación de la Política de Desarrollo Social (<a href="https://www.coneval.org.mx/Paginas/principal.aspx">CONEVAL</a>) es un organismo público descentralizado de la Administración Pública Federal, con autonomía y capacidad técnica para generar información objetiva sobre la situación de la política social y la medición de la pobreza en México, que permita mejorar la toma de decisiones en la materia.</p>
+                <img
+                src="{% static 'coneval_proyecto/logo_coneval.jpeg' %}" width="80" height="80" alt="Coneval">
+            </article>
+        </div>
+    </article>
+    <footer class="footer">
+        <iframe width="500" height="250" src="https://www.youtube.com/embed/_zuq6WyIaAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </footer>
+</body>
+</html>
