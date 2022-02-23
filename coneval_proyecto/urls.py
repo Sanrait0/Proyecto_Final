@@ -1,5 +1,6 @@
 from django.urls import path
 from coneval_proyecto import views
+from coneval_proyecto.views import import_csv
 
 urlpatterns = [
     path('', views.index, name="index"),
@@ -7,5 +8,6 @@ urlpatterns = [
     path('index', views.index, name="index"),
     path('m_clasificacion', views.m_clasificacion, name="clasificacion"),
     path('', views.pobreza, name="admin"),
+    path('import/', import_csv),
 ]
 

@@ -1,0 +1,2458 @@
+state,county,pct_pob
+Aguascalientes,Aguascalientes,26.1
+Aguascalientes,Asientos,54
+Aguascalientes,Calvillo,56.8
+Aguascalientes,Cosío,43.2
+Aguascalientes,Jesús María,25
+Aguascalientes,Pabellón de Arteaga,34.9
+Aguascalientes,Rincón de Romos,50.1
+Aguascalientes,San José de Gracia,59.6
+Aguascalientes,Tepezalá,50.7
+Aguascalientes,El Llano,55.1
+Aguascalientes,San Francisco de los Romo,31.3
+Baja California,Ensenada,33.5
+Baja California,Mexicali,25.7
+Baja California,Tecate,26.6
+Baja California,Tijuana,29.5
+Baja California,Playas de Rosarito,37.8
+Baja California Sur,Comondú,38.8
+Baja California Sur,Mulegé,27.8
+Baja California Sur,La Paz,24.3
+Baja California Sur,Los Cabos,27.6
+Baja California Sur,Loreto,41.3
+Campeche,Calkiní,58.2
+Campeche,Campeche,31.2
+Campeche,Carmen,29
+Campeche,Champotón,57.3
+Campeche,Hecelchakán,56
+Campeche,Hopelchén,69
+Campeche,Palizada,60.4
+Campeche,Tenabo,55.1
+Campeche,Escárcega,59.1
+Campeche,Calakmul,74.3
+Campeche,Candelaria,67.6
+Coahuila,Abasolo,3.9
+Coahuila,Acuña,25.2
+Coahuila,Allende,28.1
+Coahuila,Arteaga,41
+Coahuila,Candela,14.1
+Coahuila,Castaños,23.2
+Coahuila,Cuatro Ciénegas,39.2
+Coahuila,Escobedo,54.8
+Coahuila,Francisco I. Madero,35.6
+Coahuila,Frontera,18.4
+Coahuila,General Cepeda,47.8
+Coahuila,Guerrero,45
+Coahuila,Hidalgo,31.6
+Coahuila,Jiménez,44.7
+Coahuila,Juárez,26.2
+Coahuila,Lamadrid,14.3
+Coahuila,Matamoros,35.7
+Coahuila,Monclova,17.7
+Coahuila,Morelos,38.1
+Coahuila,Múzquiz,27.6
+Coahuila,Nadadores,20.8
+Coahuila,Nava,22.3
+Coahuila,Ocampo,39.6
+Coahuila,Parras,36.1
+Coahuila,Piedras Negras,28.4
+Coahuila,Progreso,22.9
+Coahuila,Ramos Arizpe,17.8
+Coahuila,Sabinas,22.1
+Coahuila,Sacramento,20.1
+Coahuila,Saltillo,17.5
+Coahuila,San Buenaventura,19
+Coahuila,San Juan de Sabinas,21.7
+Coahuila,San Pedro,48.5
+Coahuila,Sierra Mojada,16.9
+Coahuila,Torreón,26.2
+Coahuila,Viesca,50
+Coahuila,Villa Unión,38.3
+Coahuila,Zaragoza,34.8
+Colima,Armería,51.1
+Colima,Colima,27.6
+Colima,Comala,44.2
+Colima,Coquimatlán,44.9
+Colima,Cuauhtémoc,35.9
+Colima,Ixtlahuacán,59.9
+Colima,Manzanillo,27.2
+Colima,Minatitlán,47.4
+Colima,Tecomán,48.7
+Colima,Villa de Álvarez,24.3
+Chiapas,Acacoyagua,78.8
+Chiapas,Acala,74.9
+Chiapas,Acapetahua,74
+Chiapas,Altamirano,95.1
+Chiapas,Amatán,91.9
+Chiapas,Amatenango de la Frontera,83.7
+Chiapas,Amatenango del Valle,95.6
+Chiapas,Angel Albino Corzo,89.2
+Chiapas,Arriaga,65.1
+Chiapas,Bejucal de Ocampo,97.1
+Chiapas,Bella Vista,88.8
+Chiapas,Berriozábal,66.5
+Chiapas,Bochil,82.4
+Chiapas,El Bosque,98
+Chiapas,Cacahoatán,74.1
+Chiapas,Catazajá,76.1
+Chiapas,Cintalapa,70.1
+Chiapas,Coapilla,95.1
+Chiapas,Comitán de Domínguez,66.5
+Chiapas,La Concordia,86.3
+Chiapas,Copainalá,78.8
+Chiapas,Chalchihuitán,99.3
+Chiapas,Chamula,96.7
+Chiapas,Chanal,99.6
+Chiapas,Chapultenango,91.6
+Chiapas,Chenalhó,98.9
+Chiapas,Chiapa de Corzo,59.3
+Chiapas,Chiapilla,91.2
+Chiapas,Chicoasén,73.2
+Chiapas,Chicomuselo,84.9
+Chiapas,Chilón,98.2
+Chiapas,Escuintla,78.3
+Chiapas,Francisco León,95.1
+Chiapas,Frontera Comalapa,81.2
+Chiapas,Frontera Hidalgo,70
+Chiapas,La Grandeza,90
+Chiapas,Huehuetán,63.6
+Chiapas,Huixtán,92.7
+Chiapas,Huitiupán,93.9
+Chiapas,Huixtla,68.3
+Chiapas,La Independencia,91.5
+Chiapas,Ixhuatán,88.7
+Chiapas,Ixtacomitán,77.2
+Chiapas,Ixtapa,87.7
+Chiapas,Ixtapangajoya,74.7
+Chiapas,Jiquipilas,74.9
+Chiapas,Jitotol,94.7
+Chiapas,Juárez,59.4
+Chiapas,Larráinzar,98.5
+Chiapas,La Libertad,63.3
+Chiapas,Mapastepec,73.1
+Chiapas,Las Margaritas,90.8
+Chiapas,Mazapa de Madero,86.9
+Chiapas,Mazatán,73.7
+Chiapas,Metapa,68.6
+Chiapas,Mitontic,98.2
+Chiapas,Motozintla,82.3
+Chiapas,Nicolás Ruíz,99.4
+Chiapas,Ocosingo,86.5
+Chiapas,Ocotepec,95.5
+Chiapas,Ocozocoautla de Espinosa,74.7
+Chiapas,Ostuacán,67.7
+Chiapas,Osumacinta,73.8
+Chiapas,Oxchuc,97.4
+Chiapas,Palenque,77
+Chiapas,Pantelhó,98.4
+Chiapas,Pantepec,91.9
+Chiapas,Pichucalco,64.3
+Chiapas,Pijijiapan,71.1
+Chiapas,El Porvenir,94.1
+Chiapas,Villa Comaltitlán,67.3
+Chiapas,Pueblo Nuevo Solistahuacán,90.2
+Chiapas,Rayón,91.2
+Chiapas,Reforma,52.6
+Chiapas,Las Rosas,87.4
+Chiapas,Sabanilla,98.5
+Chiapas,Salto de Agua,90.9
+Chiapas,San Cristóbal de las Casas,60
+Chiapas,San Fernando,68.2
+Chiapas,Siltepec,92.9
+Chiapas,Simojovel,95.9
+Chiapas,Sitalá,98
+Chiapas,Socoltenango,78.9
+Chiapas,Solosuchiapa,86.9
+Chiapas,Soyaló,89
+Chiapas,Suchiapa,70.2
+Chiapas,Suchiate,68.6
+Chiapas,Sunuapa,76.2
+Chiapas,Tapachula,54.4
+Chiapas,Tapalapa,89.5
+Chiapas,Tapilula,73.3
+Chiapas,Tecpatán,82.6
+Chiapas,Tenejapa,97.6
+Chiapas,Teopisca,89.8
+Chiapas,Tila,97.5
+Chiapas,Tonalá,69.8
+Chiapas,Totolapa,96.7
+Chiapas,La Trinitaria,85.7
+Chiapas,Tumbalá,97.9
+Chiapas,Tuxtla Gutiérrez,41.9
+Chiapas,Tuxtla Chico,63.2
+Chiapas,Tuzantán,79.5
+Chiapas,Tzimol,83.9
+Chiapas,Unión Juárez,80.1
+Chiapas,Venustiano Carranza,84
+Chiapas,Villa Corzo,83.2
+Chiapas,Villaflores,72.9
+Chiapas,Yajalón,78.7
+Chiapas,San Lucas,97.6
+Chiapas,Zinacantán,98.4
+Chiapas,San Juan Cancuc,99.6
+Chiapas,Aldama,99.6
+Chiapas,Benemérito de las Américas,87.5
+Chiapas,Maravilla Tenejapa,96
+Chiapas,Marqués de Comillas,82.3
+Chiapas,Montecristo de Guerrero,96.6
+Chiapas,San Andrés Duraznal,99.5
+Chiapas,Santiago el Pinar,99
+Chihuahua,Ahumada,37.4
+Chihuahua,Aldama,33
+Chihuahua,Allende,37.3
+Chihuahua,Aquiles Serdán,26.6
+Chihuahua,Ascensión,54.2
+Chihuahua,Bachíniva,36.4
+Chihuahua,Balleza,65.5
+Chihuahua,Batopilas,93
+Chihuahua,Bocoyna,58.9
+Chihuahua,Buenaventura,0
+Chihuahua,Camargo,38.2
+Chihuahua,Carichí,0
+Chihuahua,Casas Grandes,38.6
+Chihuahua,Coronado,51.2
+Chihuahua,Coyame del Sotol,28.3
+Chihuahua,La Cruz,39.4
+Chihuahua,Cuauhtémoc,31.8
+Chihuahua,Cusihuiriachi,47.9
+Chihuahua,Chihuahua,19.6
+Chihuahua,Chínipas,83.9
+Chihuahua,Delicias,25.6
+Chihuahua,Dr. Belisario Domínguez,62
+Chihuahua,Galeana,40.1
+Chihuahua,Santa Isabel,0
+Chihuahua,Gómez Farías,49
+Chihuahua,Gran Morelos,56.5
+Chihuahua,Guachochi,64.9
+Chihuahua,Guadalupe,41.9
+Chihuahua,Guadalupe y Calvo,85.2
+Chihuahua,Guazapares,71
+Chihuahua,Guerrero,50.2
+Chihuahua,Hidalgo del Parral,30
+Chihuahua,Huejotitán,76.9
+Chihuahua,Ignacio Zaragoza,56
+Chihuahua,Janos,44.1
+Chihuahua,Jiménez,40
+Chihuahua,Juárez,26.4
+Chihuahua,Julimes,33.8
+Chihuahua,López,43.5
+Chihuahua,Madera,49.9
+Chihuahua,Maguarichi,75.3
+Chihuahua,Manuel Benavides,38.9
+Chihuahua,Matachí,44.9
+Chihuahua,Matamoros,49.5
+Chihuahua,Meoqui,33.5
+Chihuahua,Morelos,90.6
+Chihuahua,Moris,79.2
+Chihuahua,Namiquipa,49.2
+Chihuahua,Nonoava,63.5
+Chihuahua,Nuevo Casas Grandes,29.6
+Chihuahua,Ocampo,43.7
+Chihuahua,Ojinaga,41.2
+Chihuahua,Praxedis G. Guerrero,35.6
+Chihuahua,Riva Palacio,42.3
+Chihuahua,Rosales,30.5
+Chihuahua,Rosario,79
+Chihuahua,San Francisco de Borja,53.1
+Chihuahua,San Francisco de Conchos,34.9
+Chihuahua,San Francisco del Oro,33
+Chihuahua,Santa Bárbara,24
+Chihuahua,Satevó,52
+Chihuahua,Saucillo,27.9
+Chihuahua,Temósachic,0
+Chihuahua,El Tule,70.2
+Chihuahua,Urique,0
+Chihuahua,Uruachi,86.5
+Chihuahua,Valle de Zaragoza,50.7
+Distrito Federal,Azcapotzalco,19.5
+Distrito Federal,Coyoacán,19.8
+Distrito Federal,Cuajimalpa de Morelos,30.1
+Distrito Federal,Gustavo A. Madero,28.4
+Distrito Federal,Iztacalco,17.1
+Distrito Federal,Iztapalapa,35
+Distrito Federal,La Magdalena Contreras,32.6
+Distrito Federal,Milpa Alta,49.2
+Distrito Federal,Álvaro Obregón,27.9
+Distrito Federal,Tláhuac,39.2
+Distrito Federal,Tlalpan,32.1
+Distrito Federal,Xochimilco,40.5
+Distrito Federal,Benito Juárez,5
+Distrito Federal,Cuauhtémoc,16
+Distrito Federal,Miguel Hidalgo,7.1
+Distrito Federal,Venustiano Carranza,22.8
+Durango,Canatlán,50.4
+Durango,Canelas,76.5
+Durango,Coneto de Comonfort,79.8
+Durango,Cuencamé,45.8
+Durango,Durango,32.2
+Durango,General Simón Bolívar,54.3
+Durango,Gómez Palacio,30.5
+Durango,Guadalupe Victoria,48.1
+Durango,Guanaceví,64.6
+Durango,Hidalgo,69.7
+Durango,Indé,69.5
+Durango,Lerdo,36.3
+Durango,Mapimí,40.5
+Durango,Mezquital,89.1
+Durango,Nazas,55.5
+Durango,Nombre de Dios,50
+Durango,Ocampo,55.1
+Durango,El Oro,46.1
+Durango,Otáez,89.5
+Durango,Pánuco de Coronado,54.8
+Durango,Peñón Blanco,53.1
+Durango,Poanas,52.1
+Durango,Pueblo Nuevo,52.6
+Durango,Rodeo,48.8
+Durango,San Bernardo,68.3
+Durango,San Dimas,50.4
+Durango,San Juan de Guadalupe,63.2
+Durango,San Juan del Río,55.3
+Durango,San Luis del Cordero,58.4
+Durango,San Pedro del Gallo,69.2
+Durango,Santa Clara,74.7
+Durango,Santiago Papasquiaro,46
+Durango,Súchil,71.4
+Durango,Tamazula,70.9
+Durango,Tepehuanes,56.1
+Durango,Tlahualilo,38.8
+Durango,Topia,68.9
+Durango,Vicente Guerrero,49
+Durango,Nuevo Ideal,49.3
+Guanajuato,Abasolo,55.8
+Guanajuato,Acámbaro,52.9
+Guanajuato,San Miguel de Allende,48.6
+Guanajuato,Apaseo el Alto,51.7
+Guanajuato,Apaseo el Grande,41.9
+Guanajuato,Atarjea,82.1
+Guanajuato,Celaya,32.5
+Guanajuato,Manuel Doblado,54.5
+Guanajuato,Comonfort,57.5
+Guanajuato,Coroneo,61.1
+Guanajuato,Cortazar,40.6
+Guanajuato,Cuerámaro,60.4
+Guanajuato,Doctor Mora,50.1
+Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,56.2
+Guanajuato,Guanajuato,35.3
+Guanajuato,Huanímaro,59.1
+Guanajuato,Irapuato,37.2
+Guanajuato,Jaral del Progreso,54.7
+Guanajuato,Jerécuaro,74.4
+Guanajuato,León,31.5
+Guanajuato,Moroleón,55
+Guanajuato,Ocampo,66.3
+Guanajuato,Pénjamo,58
+Guanajuato,Pueblo Nuevo,53.1
+Guanajuato,Purísima del Rincón,39.9
+Guanajuato,Romita,52.3
+Guanajuato,Salamanca,37.7
+Guanajuato,Salvatierra,60.1
+Guanajuato,San Diego de la Unión,65.7
+Guanajuato,San Felipe,63.6
+Guanajuato,San Francisco del Rincón,37.9
+Guanajuato,San José Iturbide,38.9
+Guanajuato,San Luis de la Paz,52.9
+Guanajuato,Santa Catarina,65.3
+Guanajuato,Santa Cruz de Juventino Rosas,62.9
+Guanajuato,Santiago Maravatío,75.3
+Guanajuato,Silao,43.3
+Guanajuato,Tarandacuao,63.9
+Guanajuato,Tarimoro,56
+Guanajuato,Tierra Blanca,57
+Guanajuato,Uriangato,58.2
+Guanajuato,Valle de Santiago,57.4
+Guanajuato,Victoria,56.1
+Guanajuato,Villagrán,38.4
+Guanajuato,Xichú,80.6
+Guanajuato,Yuriria,63.5
+Guerrero,Acapulco de Juárez,56.6
+Guerrero,Ahuacuotzingo,89.2
+Guerrero,Ajuchitlán del Progreso,84.3
+Guerrero,Alcozauca de Guerrero,96.2
+Guerrero,Alpoyeca,72.7
+Guerrero,Apaxtla,73.6
+Guerrero,Arcelia,66.5
+Guerrero,Atenango del Río,80.5
+Guerrero,Atlamajalcingo del Monte,96.3
+Guerrero,Atlixtac,96.5
+Guerrero,Atoyac de Álvarez,63.4
+Guerrero,Ayutla de los Libres,81
+Guerrero,Azoyú,75.9
+Guerrero,Benito Juárez,48.2
+Guerrero,Buenavista de Cuéllar,55.1
+Guerrero,Coahuayutla de José María Izazaga,79.2
+Guerrero,Cocula,55.9
+Guerrero,Copala,69.5
+Guerrero,Copalillo,94.7
+Guerrero,Copanatoyac,94.3
+Guerrero,Coyuca de Benítez,55.2
+Guerrero,Coyuca de Catalán,76.8
+Guerrero,Cuajinicuilapa,67.4
+Guerrero,Cualác,83.7
+Guerrero,Cuautepec,83.7
+Guerrero,Cuetzala del Progreso,82.7
+Guerrero,Cutzamala de Pinzón,66.8
+Guerrero,Chilapa de Álvarez,84.2
+Guerrero,Chilpancingo de los Bravo,54.2
+Guerrero,Florencio Villarreal,71.7
+Guerrero,General Canuto A. Neri,83.7
+Guerrero,General Heliodoro Castillo,91.5
+Guerrero,Huamuxtitlán,61.2
+Guerrero,Huitzuco de los Figueroa,66.2
+Guerrero,Iguala de la Independencia,52.9
+Guerrero,Igualapa,85.2
+Guerrero,Ixcateopan de Cuauhtémoc,83.7
+Guerrero,Zihuatanejo de Azueta,49.3
+Guerrero,Juan R. Escudero,75.4
+Guerrero,Leonardo Bravo,86.5
+Guerrero,Malinaltepec,92.4
+Guerrero,Mártir de Cuilapan,84.4
+Guerrero,Metlatónoc,98.4
+Guerrero,Mochitlán,72.5
+Guerrero,Olinalá,85.8
+Guerrero,Ometepec,69.6
+Guerrero,Pedro Ascencio Alquisiras,93.7
+Guerrero,Petatlán,61.2
+Guerrero,Pilcaya,56.5
+Guerrero,Pungarabato,58.2
+Guerrero,Quechultenango,86.5
+Guerrero,San Luis Acatlán,88.9
+Guerrero,San Marcos,57.4
+Guerrero,San Miguel Totolapan,94
+Guerrero,Taxco de Alarcón,68.5
+Guerrero,Tecoanapa,76.2
+Guerrero,Técpan de Galeana,57.6
+Guerrero,Teloloapan,73.5
+Guerrero,Tepecoacuilco de Trujano,56.4
+Guerrero,Tetipac,70.8
+Guerrero,Tixtla de Guerrero,67.4
+Guerrero,Tlacoachistlahuaca,91.6
+Guerrero,Tlacoapa,90.7
+Guerrero,Tlalchapa,66.3
+Guerrero,Tlalixtaquilla de Maldonado,77.8
+Guerrero,Tlapa de Comonfort,73.3
+Guerrero,Tlapehuala,56.9
+Guerrero,La Unión de Isidoro Montes de Oca,59.7
+Guerrero,Xalpatláhuac,94.7
+Guerrero,Xochihuehuetlán,80.8
+Guerrero,Xochistlahuaca,91.3
+Guerrero,Zapotitlán Tablas,93.3
+Guerrero,Zirándaro,79.6
+Guerrero,Zitlala,88.5
+Guerrero,Eduardo Neri,71.9
+Guerrero,Acatepec,97.6
+Guerrero,Marquelia,71.8
+Guerrero,Cochoapa el Grande,99.3
+Guerrero,José Joaquin de Herrera,94.2
+Guerrero,Juchitán,79.5
+Guerrero,Iliatenco,80.6
+Hidalgo,Acatlán,60
+Hidalgo,Acaxochitlán,75
+Hidalgo,Actopan,55
+Hidalgo,Agua Blanca de Iturbide,68.7
+Hidalgo,Ajacuba,47.8
+Hidalgo,Alfajayucan,61.9
+Hidalgo,Almoloya,58.4
+Hidalgo,Apan,47.5
+Hidalgo,El Arenal,43.9
+Hidalgo,Atitalaquia,35.5
+Hidalgo,Atlapexco,77.8
+Hidalgo,Atotonilco el Grande,62.9
+Hidalgo,Atotonilco de Tula,27.7
+Hidalgo,Calnali,73.8
+Hidalgo,Cardonal,64.3
+Hidalgo,Cuautepec de Hinojosa,59.4
+Hidalgo,Chapantongo,55.6
+Hidalgo,Chapulhuacán,79.9
+Hidalgo,Chilcuautla,57.8
+Hidalgo,Eloxochitlán,70.3
+Hidalgo,Emiliano Zapata,39.3
+Hidalgo,Epazoyucan,36.3
+Hidalgo,Francisco I. Madero,52.3
+Hidalgo,Huasca de Ocampo,52.8
+Hidalgo,Huautla,78.6
+Hidalgo,Huazalingo,84.2
+Hidalgo,Huehuetla,79.4
+Hidalgo,Huejutla de Reyes,62.8
+Hidalgo,Huichapan,38.1
+Hidalgo,Ixmiquilpan,55.6
+Hidalgo,Jacala de Ledezma,71.6
+Hidalgo,Jaltocán,74.3
+Hidalgo,Juárez Hidalgo,76.4
+Hidalgo,Lolotla,73.1
+Hidalgo,Metepec,56.2
+Hidalgo,San Agustín Metzquititlán,56.8
+Hidalgo,Metztitlán,66.1
+Hidalgo,Mineral del Chico,52.4
+Hidalgo,Mineral del Monte,43.2
+Hidalgo,La Misión,79.7
+Hidalgo,Mixquiahuala de Juárez,44.7
+Hidalgo,Molango de Escamilla,62.8
+Hidalgo,Nicolás Flores,84.4
+Hidalgo,Nopala de Villagrán,48.2
+Hidalgo,Omitlán de Juárez,59
+Hidalgo,San Felipe Orizatlán,78.3
+Hidalgo,Pacula,77.8
+Hidalgo,Pachuca de Soto,30.1
+Hidalgo,Pisaflores,79.8
+Hidalgo,Progreso de Obregón,46
+Hidalgo,Mineral de la Reforma,20.9
+Hidalgo,San Agustín Tlaxiaca,48.2
+Hidalgo,San Bartolo Tutotepec,77.9
+Hidalgo,San Salvador,56.1
+Hidalgo,Santiago de Anaya,36.9
+Hidalgo,Santiago Tulantepec de Lugo Guerrero,45.5
+Hidalgo,Singuilucan,61
+Hidalgo,Tasquillo,68.5
+Hidalgo,Tecozautla,64
+Hidalgo,Tenango de Doria,72.9
+Hidalgo,Tepeapulco,36
+Hidalgo,Tepehuacán de Guerrero,83.4
+Hidalgo,Tepeji del Río de Ocampo,33.8
+Hidalgo,Tepetitlán,42.4
+Hidalgo,Tetepango,57.3
+Hidalgo,Villa de Tezontepec,53.1
+Hidalgo,Tezontepec de Aldama,60
+Hidalgo,Tianguistengo,76.2
+Hidalgo,Tizayuca,34.4
+Hidalgo,Tlahuelilpan,55.1
+Hidalgo,Tlahuiltepa,75.9
+Hidalgo,Tlanalapa,33.3
+Hidalgo,Tlanchinol,84
+Hidalgo,Tlaxcoapan,57.7
+Hidalgo,Tolcayuca,45.1
+Hidalgo,Tula de Allende,27.8
+Hidalgo,Tulancingo de Bravo,50.3
+Hidalgo,Xochiatipan,91.7
+Hidalgo,Xochicoatlán,65.8
+Hidalgo,Yahualica,87.5
+Hidalgo,Zacualtipán de Ángeles,54.7
+Hidalgo,Zapotlán de Juárez,57.1
+Hidalgo,Zempoala,37.8
+Hidalgo,Zimapán,53.2
+Jalisco,Acatic,36.6
+Jalisco,Acatlán de Juárez,31.9
+Jalisco,Ahualulco de Mercado,33
+Jalisco,Amacueca,61.1
+Jalisco,Amatitán,38.6
+Jalisco,Ameca,37.5
+Jalisco,San Juanito de Escobedo,51.9
+Jalisco,Arandas,41.9
+Jalisco,El Arenal,29.9
+Jalisco,Atemajac de Brizuela,77.5
+Jalisco,Atengo,58.7
+Jalisco,Atenguillo,27.8
+Jalisco,Atotonilco el Alto,41.2
+Jalisco,Atoyac,67.1
+Jalisco,Autlán de Navarro,37.7
+Jalisco,Ayotlán,56.3
+Jalisco,Ayutla,54.1
+Jalisco,La Barca,44
+Jalisco,Bolaños,62.8
+Jalisco,Cabo Corrientes,46.6
+Jalisco,Casimiro Castillo,47.5
+Jalisco,Cihuatlán,53.6
+Jalisco,Zapotlán el Grande,35
+Jalisco,Cocula,44.1
+Jalisco,Colotlán,46.3
+Jalisco,Concepción de Buenos Aires,64
+Jalisco,Cuautitlán de García Barragán,62
+Jalisco,Cuautla,34.9
+Jalisco,Cuquío,56.5
+Jalisco,Chapala,41.7
+Jalisco,Chimaltitán,70.5
+Jalisco,Chiquilistlán,78.4
+Jalisco,Degollado,46.3
+Jalisco,Ejutla,34.8
+Jalisco,Encarnación de Díaz,48.4
+Jalisco,Etzatlán,49.7
+Jalisco,El Grullo,44.1
+Jalisco,Guachinango,44.1
+Jalisco,Guadalajara,25.4
+Jalisco,Hostotipaquillo,74
+Jalisco,Huejúcar,48.7
+Jalisco,Huejuquilla el Alto,65.8
+Jalisco,La Huerta,36.5
+Jalisco,Ixtlahuacán de los Membrillos,28.2
+Jalisco,Ixtlahuacán del Río,45.8
+Jalisco,Jalostotitlán,42.1
+Jalisco,Jamay,49.2
+Jalisco,Jesús María,44.3
+Jalisco,Jilotlán de los Dolores,50.1
+Jalisco,Jocotepec,51.7
+Jalisco,Juanacatlán,21.3
+Jalisco,Juchitlán,57.2
+Jalisco,Lagos de Moreno,36.8
+Jalisco,El Limón,42.6
+Jalisco,Magdalena,48.1
+Jalisco,Santa María del Oro,64
+Jalisco,La Manzanilla de la Paz,55
+Jalisco,Mascota,44
+Jalisco,Mazamitla,54.7
+Jalisco,Mexticacán,65.5
+Jalisco,Mezquitic,84.8
+Jalisco,Mixtlán,47.5
+Jalisco,Ocotlán,35
+Jalisco,Ojuelos de Jalisco,51.6
+Jalisco,Pihuamo,50.5
+Jalisco,Poncitlán,47.8
+Jalisco,Puerto Vallarta,26.4
+Jalisco,Villa Purificación,57.6
+Jalisco,Quitupan,45.2
+Jalisco,El Salto,39.2
+Jalisco,San Cristóbal de la Barranca,48.9
+Jalisco,San Diego de Alejandría,54.7
+Jalisco,San Juan de los Lagos,46.2
+Jalisco,San Julián,42.5
+Jalisco,San Marcos,51.1
+Jalisco,San Martín de Bolaños,38.6
+Jalisco,San Martín Hidalgo,41.2
+Jalisco,San Miguel el Alto,39.3
+Jalisco,Gómez Farías,53.8
+Jalisco,San Sebastián del Oeste,57.2
+Jalisco,Santa María de los Ángeles,49.3
+Jalisco,Sayula,47.3
+Jalisco,Tala,33.3
+Jalisco,Talpa de Allende,61.7
+Jalisco,Tamazula de Gordiano,35.1
+Jalisco,Tapalpa,61.1
+Jalisco,Tecalitlán,54.1
+Jalisco,Tecolotlán,48.3
+Jalisco,Techaluta de Montenegro,36.2
+Jalisco,Tenamaxtlán,63.2
+Jalisco,Teocaltiche,48.8
+Jalisco,Teocuitatlán de Corona,51.2
+Jalisco,Tepatitlán de Morelos,32.3
+Jalisco,Tequila,42.6
+Jalisco,Teuchitlán,33.6
+Jalisco,Tizapán el Alto,62.8
+Jalisco,Tlajomulco de Zúñiga,32
+Jalisco,Tlaquepaque,34.7
+Jalisco,Tolimán,58.1
+Jalisco,Tomatlán,50.4
+Jalisco,Tonalá,37.3
+Jalisco,Tonaya,40.3
+Jalisco,Tonila,49.4
+Jalisco,Totatiche,45
+Jalisco,Tototlán,40.9
+Jalisco,Tuxcacuesco,36.4
+Jalisco,Tuxcueca,51.4
+Jalisco,Tuxpan,45.7
+Jalisco,Unión de San Antonio,36.5
+Jalisco,Unión de Tula,49.7
+Jalisco,Valle de Guadalupe,38.7
+Jalisco,Valle de Juárez,64.6
+Jalisco,San Gabriel,44.5
+Jalisco,Villa Corona,44.3
+Jalisco,Villa Guerrero,64.6
+Jalisco,Villa Hidalgo,52.8
+Jalisco,Cañadas de Obregón,58.9
+Jalisco,Yahualica de González Gallo,44.1
+Jalisco,Zacoalco de Torres,50.9
+Jalisco,Zapopan,28.1
+Jalisco,Zapotiltic,40.6
+Jalisco,Zapotitlán de Vadillo,68.4
+Jalisco,Zapotlán del Rey,44.3
+Jalisco,Zapotlanejo,40.5
+Jalisco,San Ignacio Cerro Gordo,48
+México,Acambay,73.5
+México,Acolman,56.2
+México,Aculco,61.9
+México,Almoloya de Alquisiras,73.4
+México,Almoloya de Juárez,59.9
+México,Almoloya del Río,61.9
+México,Amanalco,76.2
+México,Amatepec,77.9
+México,Amecameca,57.6
+México,Apaxco,46.1
+México,Atenco,59.3
+México,Atizapán,58.6
+México,Atizapán de Zaragoza,34.2
+México,Atlacomulco,59.4
+México,Atlautla,76.1
+México,Axapusco,59.3
+México,Ayapango,46.5
+México,Calimaya,48.5
+México,Capulhuac,54.9
+México,Coacalco de Berriozábal,26.7
+México,Coatepec Harinas,63.8
+México,Cocotitlán,42.6
+México,Coyotepec,44.9
+México,Cuautitlán,26.2
+México,Chalco,54.5
+México,Chapa de Mota,68.9
+México,Chapultepec,39.6
+México,Chiautla,52.8
+México,Chicoloapan,44.8
+México,Chiconcuac,65.1
+México,Chimalhuacán,61.5
+México,Donato Guerra,83.6
+México,Ecatepec de Morelos,42.7
+México,Ecatzingo,77.4
+México,Huehuetoca,39.8
+México,Hueypoxtla,67.3
+México,Huixquilucan,30.8
+México,Isidro Fabela,43.2
+México,Ixtapaluca,54.2
+México,Ixtapan de la Sal,61.5
+México,Ixtapan del Oro,89.2
+México,Ixtlahuaca,70.3
+México,Xalatlaco,62.2
+México,Jaltenco,47.8
+México,Jilotepec,57.5
+México,Jilotzingo,44.3
+México,Jiquipilco,66.7
+México,Jocotitlán,58.8
+México,Joquicingo,72.2
+México,Juchitepec,71.4
+México,Lerma,46.5
+México,Malinalco,76.3
+México,Melchor Ocampo,46.9
+México,Metepec,31.6
+México,Mexicaltzingo,51.1
+México,Morelos,79.9
+México,Naucalpan de Juárez,37.1
+México,Nezahualcóyotl,38.7
+México,Nextlalpan,55.1
+México,Nicolás Romero,43.2
+México,Nopaltepec,56
+México,Ocoyoacac,46.3
+México,Ocuilan,68.2
+México,El Oro,61.8
+México,Otumba,63.3
+México,Otzoloapan,78.2
+México,Otzolotepec,62.8
+México,Ozumba,70
+México,Papalotla,45.9
+México,La Paz,54.4
+México,Polotitlán,50.2
+México,Rayón,39.7
+México,San Antonio la Isla,39.4
+México,San Felipe del Progreso,75.9
+México,San Martín de las Pirámides,49.5
+México,San Mateo Atenco,44.4
+México,San Simón de Guerrero,63.1
+México,Santo Tomás,62.5
+México,Soyaniquilpan de Juárez,56.6
+México,Sultepec,76.8
+México,Tecámac,36.8
+México,Tejupilco,71.3
+México,Temamatla,40.2
+México,Temascalapa,58
+México,Temascalcingo,74.6
+México,Temascaltepec,78.2
+México,Temoaya,71.8
+México,Tenancingo,61.5
+México,Tenango del Aire,53.7
+México,Tenango del Valle,63.8
+México,Teoloyucan,52.1
+México,Teotihuacán,53.7
+México,Tepetlaoxtoc,56
+México,Tepetlixpa,68.4
+México,Tepotzotlán,38.4
+México,Tequixquiac,60.2
+México,Texcaltitlán,73.7
+México,Texcalyacac,66
+México,Texcoco,45.8
+México,Tezoyuca,65.4
+México,Tianguistenco,59.4
+México,Timilpan,51.2
+México,Tlalmanalco,45.6
+México,Tlalnepantla de Baz,34.9
+México,Tlatlaya,77.1
+México,Toluca,45.5
+México,Tonatico,57.3
+México,Tultepec,40.7
+México,Tultitlán,36.4
+México,Valle de Bravo,61.2
+México,Villa de Allende,81.8
+México,Villa del Carbón,71.7
+México,Villa Guerrero,71.3
+México,Villa Victoria,71.7
+México,Xonacatlán,53.9
+México,Zacazonapan,67.6
+México,Zacualpan,76.1
+México,Zinacantepec,53.3
+México,Zumpahuacán,78.3
+México,Zumpango,46.9
+México,Cuautitlán Izcalli,27.7
+México,Valle de Chalco Solidaridad,59
+México,Luvianos,84.9
+México,San José del Rincón,76.3
+México,Tonanitla,49.6
+Michoacán,Acuitzio,75.1
+Michoacán,Aguililla,71.2
+Michoacán,Álvaro Obregón,70.5
+Michoacán,Angamacutiro,72.1
+Michoacán,Angangueo,68.6
+Michoacán,Apatzingán,53.8
+Michoacán,Aporo,64.2
+Michoacán,Aquila,70.4
+Michoacán,Ario,59.3
+Michoacán,Arteaga,62.9
+Michoacán,Briseñas,62.4
+Michoacán,Buenavista,59.4
+Michoacán,Carácuaro,84.8
+Michoacán,Coahuayana,55.3
+Michoacán,Coalcomán de Vázquez Pallares,64.4
+Michoacán,Coeneo,74.8
+Michoacán,Contepec,71.5
+Michoacán,Copándaro,70.5
+Michoacán,Cotija,62.7
+Michoacán,Cuitzeo,75.5
+Michoacán,Charapan,82.7
+Michoacán,Charo,56.3
+Michoacán,Chavinda,63.8
+Michoacán,Cherán,81.9
+Michoacán,Chilchota,80
+Michoacán,Chinicuila,72.8
+Michoacán,Chucándiro,75.5
+Michoacán,Churintzio,66.7
+Michoacán,Churumuco,77.5
+Michoacán,Ecuandureo,65.2
+Michoacán,Epitacio Huerta,71.4
+Michoacán,Erongarícuaro,69
+Michoacán,Gabriel Zamora,62.8
+Michoacán,Hidalgo,70.6
+Michoacán,La Huacana,71.5
+Michoacán,Huandacareo,63.7
+Michoacán,Huaniqueo,79
+Michoacán,Huetamo,65.4
+Michoacán,Huiramba,71.8
+Michoacán,Indaparapeo,71.8
+Michoacán,Irimbo,71
+Michoacán,Ixtlán,63.7
+Michoacán,Jacona,49.4
+Michoacán,Jiménez,62.8
+Michoacán,Jiquilpan,53.4
+Michoacán,Juárez,63.5
+Michoacán,Jungapeo,65.4
+Michoacán,Lagunillas,59.9
+Michoacán,Madero,78.2
+Michoacán,Maravatío,71.4
+Michoacán,Marcos Castellanos,53
+Michoacán,Lázaro Cárdenas,36.7
+Michoacán,Morelia,41.2
+Michoacán,Morelos,79.7
+Michoacán,Múgica,61.1
+Michoacán,Nahuatzen,86.5
+Michoacán,Nocupétaro,84.3
+Michoacán,Nuevo Parangaricutiro,60.2
+Michoacán,Nuevo Urecho,60.9
+Michoacán,Numarán,67.7
+Michoacán,Ocampo,79.1
+Michoacán,Pajacuarán,71.8
+Michoacán,Panindícuaro,71.5
+Michoacán,Parácuaro,70.5
+Michoacán,Paracho,68.7
+Michoacán,Pátzcuaro,64.5
+Michoacán,Penjamillo,71.9
+Michoacán,Peribán,48.9
+Michoacán,La Piedad,47.4
+Michoacán,Purépero,59.7
+Michoacán,Puruándiro,69.1
+Michoacán,Queréndaro,71.9
+Michoacán,Quiroga,74.2
+Michoacán,Cojumatlán de Régules,70.7
+Michoacán,Los Reyes,52.3
+Michoacán,Sahuayo,56
+Michoacán,San Lucas,73.4
+Michoacán,Santa Ana Maya,73.6
+Michoacán,Salvador Escalante,78.7
+Michoacán,Senguio,69.6
+Michoacán,Susupuato,83.1
+Michoacán,Tacámbaro,60.2
+Michoacán,Tancítaro,61.2
+Michoacán,Tangamandapio,71.2
+Michoacán,Tangancícuaro,60.8
+Michoacán,Tanhuato,60.8
+Michoacán,Taretan,45.6
+Michoacán,Tarímbaro,44
+Michoacán,Tepalcatepec,57.5
+Michoacán,Tingambato,70.5
+Michoacán,Tingüindín,57.8
+Michoacán,Tiquicheo de Nicolás Romero,79.4
+Michoacán,Tlalpujahua,68.9
+Michoacán,Tlazazalca,75.7
+Michoacán,Tocumbo,49.6
+Michoacán,Tumbiscatío,83.8
+Michoacán,Turicato,69.8
+Michoacán,Tuxpan,64.6
+Michoacán,Tuzantla,81.9
+Michoacán,Tzintzuntzan,66.9
+Michoacán,Tzitzio,83.9
+Michoacán,Uruapan,51.4
+Michoacán,Venustiano Carranza,67.7
+Michoacán,Villamar,67.7
+Michoacán,Vista Hermosa,57.3
+Michoacán,Yurécuaro,64
+Michoacán,Zacapu,53.5
+Michoacán,Zamora,49.9
+Michoacán,Zináparo,52
+Michoacán,Zinapécuaro,67.9
+Michoacán,Ziracuaretiro,62.8
+Michoacán,Zitácuaro,60.9
+Michoacán,José Sixto Verduzco,71.3
+Morelos,Amacuzac,59.4
+Morelos,Atlatlahucan,44.6
+Morelos,Axochiapan,79.1
+Morelos,Ayala,56.3
+Morelos,Coatlán del Río,55.2
+Morelos,Cuautla,44.6
+Morelos,Cuernavaca,31.9
+Morelos,Emiliano Zapata,46
+Morelos,Huitzilac,46.2
+Morelos,Jantetelco,59.3
+Morelos,Jiutepec,35.4
+Morelos,Jojutla,48.2
+Morelos,Jonacatepec,60
+Morelos,Mazatepec,47.7
+Morelos,Miacatlán,68.4
+Morelos,Ocuituco,81.5
+Morelos,Puente de Ixtla,64.7
+Morelos,Temixco,58.2
+Morelos,Tepalcingo,74.5
+Morelos,Tepoztlán,39.5
+Morelos,Tetecala,54.7
+Morelos,Tetela del Volcán,81.4
+Morelos,Tlalnepantla,74.6
+Morelos,Tlaltizapán,53.8
+Morelos,Tlaquiltenango,51.9
+Morelos,Tlayacapan,52.7
+Morelos,Totolapan,64.4
+Morelos,Xochitepec,54.9
+Morelos,Yautepec,50.9
+Morelos,Yecapixtla,60.2
+Morelos,Zacatepec,39.3
+Morelos,Zacualpan,70.7
+Morelos,Temoac,79.2
+Nayarit,Acaponeta,51.1
+Nayarit,Ahuacatlán,39.7
+Nayarit,Amatlán de Cañas,49.5
+Nayarit,Compostela,41.7
+Nayarit,Huajicori,88.2
+Nayarit,Ixtlán del Río,47.6
+Nayarit,Jala,70.6
+Nayarit,Xalisco,26.8
+Nayarit,Del Nayar,86.9
+Nayarit,Rosamorada,49.7
+Nayarit,Ruíz,61.1
+Nayarit,San Blas,52.2
+Nayarit,San Pedro Lagunillas,48.1
+Nayarit,Santa María del Oro,37.2
+Nayarit,Santiago Ixcuintla,45.5
+Nayarit,Tecuala,51.7
+Nayarit,Tepic,24.2
+Nayarit,Tuxpan,49.6
+Nayarit,La Yesca,79.4
+Nayarit,Bahía de Banderas,25.6
+Nuevo León,Abasolo,11.2
+Nuevo León,Agualeguas,10.2
+Nuevo León,Los Aldamas,28.3
+Nuevo León,Allende,18.5
+Nuevo León,Anáhuac,45.5
+Nuevo León,Apodaca,13.1
+Nuevo León,Aramberri,64.1
+Nuevo León,Bustamante,37
+Nuevo León,Cadereyta Jiménez,27.4
+Nuevo León,Carmen,21.6
+Nuevo León,Cerralvo,48.2
+Nuevo León,Ciénega de Flores,23.8
+Nuevo León,China,37.6
+Nuevo León,Dr. Arroyo,67.8
+Nuevo León,Dr. Coss,21.3
+Nuevo León,Dr. González,12.4
+Nuevo León,Galeana,61
+Nuevo León,García,19.2
+Nuevo León,San Pedro Garza García,4.4
+Nuevo León,Gral. Bravo,41.8
+Nuevo León,Gral. Escobedo,22.4
+Nuevo León,Gral. Terán,35.9
+Nuevo León,Gral. Treviño,18.8
+Nuevo León,Gral. Zaragoza,60.2
+Nuevo León,Gral. Zuazua,18.8
+Nuevo León,Guadalupe,16.7
+Nuevo León,Los Herreras,10.7
+Nuevo León,Higueras,15.7
+Nuevo León,Hualahuises,41.1
+Nuevo León,Iturbide,56.6
+Nuevo León,Juárez,23
+Nuevo León,Lampazos de Naranjo,39.7
+Nuevo León,Linares,32.8
+Nuevo León,Marín,23.4
+Nuevo León,Melchor Ocampo,3.7
+Nuevo León,Mier y Noriega,75.7
+Nuevo León,Mina,30.4
+Nuevo León,Montemorelos,23.9
+Nuevo León,Monterrey,16.7
+Nuevo León,Parás,13.7
+Nuevo León,Pesquería,21.4
+Nuevo León,Los Ramones,36.1
+Nuevo León,Rayones,71
+Nuevo León,Sabinas Hidalgo,30.6
+Nuevo León,Salinas Victoria,23.5
+Nuevo León,San Nicolás de los Garza,11.4
+Nuevo León,Hidalgo,17.9
+Nuevo León,Santa Catarina,14.6
+Nuevo León,Santiago,19
+Nuevo León,Vallecillo,33.7
+Nuevo León,Villaldama,33.8
+Oaxaca,Abejones,95
+Oaxaca,Acatlán de Pérez Figueroa,66.9
+Oaxaca,Asunción Cacalotepec,94.7
+Oaxaca,Asunción Cuyotepeji,72
+Oaxaca,Asunción Ixtaltepec,53.3
+Oaxaca,Asunción Nochixtlán,65
+Oaxaca,Asunción Ocotlán,97.1
+Oaxaca,Asunción Tlacolulita,79.6
+Oaxaca,Ayotzintepec,95.8
+Oaxaca,El Barrio de la Soledad,40.8
+Oaxaca,Calihualá,88
+Oaxaca,Candelaria Loxicha,87.8
+Oaxaca,Ciénega de Zimatlán,82.6
+Oaxaca,Ciudad Ixtepec,45.6
+Oaxaca,Coatecas Altas,97.4
+Oaxaca,Coicoyán de las Flores,99.4
+Oaxaca,La Compañía,93
+Oaxaca,Concepción Buenavista,92.1
+Oaxaca,Concepción Pápalo,95.7
+Oaxaca,Constancia del Rosario,84.7
+Oaxaca,Cosolapa,59.6
+Oaxaca,Cosoltepec,88.3
+Oaxaca,Cuilápam de Guerrero,58.7
+Oaxaca,Cuyamecalco Villa de Zaragoza,94.7
+Oaxaca,Chahuites,74.9
+Oaxaca,Chalcatongo de Hidalgo,83.7
+Oaxaca,Chiquihuitlán de Benito Juárez,89.9
+Oaxaca,Heroica Ciudad de Ejutla de Crespo,74.2
+Oaxaca,Eloxochitlán de Flores Magón,94.6
+Oaxaca,El Espinal,34.2
+Oaxaca,Tamazulápam del Espíritu Santo,83.6
+Oaxaca,Fresnillo de Trujano,86.6
+Oaxaca,Guadalupe Etla,31.9
+Oaxaca,Guadalupe de Ramírez,75.5
+Oaxaca,Guelatao de Juárez,46.4
+Oaxaca,Guevea de Humboldt,96.9
+Oaxaca,Mesones Hidalgo,94.5
+Oaxaca,Villa Hidalgo,84.6
+Oaxaca,Heroica Ciudad de Huajuapan de León,53.3
+Oaxaca,Huautepec,97.6
+Oaxaca,Huautla de Jiménez,74.3
+Oaxaca,Ixtlán de Juárez,79.5
+Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,56.5
+Oaxaca,Loma Bonita,63.2
+Oaxaca,Magdalena Apasco,38
+Oaxaca,Magdalena Jaltepec,84.3
+Oaxaca,Santa Magdalena Jicotlán,89
+Oaxaca,Magdalena Mixtepec,98.2
+Oaxaca,Magdalena Ocotlán,73
+Oaxaca,Magdalena Peñasco,97.1
+Oaxaca,Magdalena Teitipac,96.5
+Oaxaca,Magdalena Tequisistlán,72.9
+Oaxaca,Magdalena Tlacotepec,49.3
+Oaxaca,Magdalena Zahuatlán,81.6
+Oaxaca,Mariscala de Juárez,70.2
+Oaxaca,Mártires de Tacubaya,71
+Oaxaca,Matías Romero Avendaño,0
+Oaxaca,Mazatlán Villa de Flores,95.5
+Oaxaca,Miahuatlán de Porfirio Díaz,66.1
+Oaxaca,Mixistlán de la Reforma,96.2
+Oaxaca,Monjas,81.6
+Oaxaca,Natividad,52.7
+Oaxaca,Nazareno Etla,51.4
+Oaxaca,Nejapa de Madero,77.2
+Oaxaca,Ixpantepec Nieves,90.2
+Oaxaca,Santiago Niltepec,78.4
+Oaxaca,Oaxaca de Juárez,39
+Oaxaca,Ocotlán de Morelos,62.6
+Oaxaca,La Pe,90.6
+Oaxaca,Pinotepa de Don Luis,88
+Oaxaca,Pluma Hidalgo,78.9
+Oaxaca,San José del Progreso,88.4
+Oaxaca,Putla Villa de Guerrero,68
+Oaxaca,Santa Catarina Quioquitani,98.9
+Oaxaca,Reforma de Pineda,75.8
+Oaxaca,La Reforma,80.7
+Oaxaca,Reyes Etla,45.9
+Oaxaca,Rojas de Cuauhtémoc,39.4
+Oaxaca,Salina Cruz,40.3
+Oaxaca,San Agustín Amatengo,89.6
+Oaxaca,San Agustín Atenango,80.3
+Oaxaca,San Agustín Chayuco,89.7
+Oaxaca,San Agustín de las Juntas,51.6
+Oaxaca,San Agustín Etla,43.2
+Oaxaca,San Agustín Loxicha,96
+Oaxaca,San Agustín Tlacotepec,87.6
+Oaxaca,San Agustín Yatareni,83.2
+Oaxaca,San Andrés Cabecera Nueva,95.8
+Oaxaca,San Andrés Dinicuiti,82.2
+Oaxaca,San Andrés Huaxpaltepec,76.8
+Oaxaca,San Andrés Huayápam,37.9
+Oaxaca,San Andrés Ixtlahuaca,65.3
+Oaxaca,San Andrés Lagunas,90.7
+Oaxaca,San Andrés Nuxiño,92.6
+Oaxaca,San Andrés Paxtlán,98
+Oaxaca,San Andrés Sinaxtla,47.3
+Oaxaca,San Andrés Solaga,85.4
+Oaxaca,San Andrés Teotilálpam,95.9
+Oaxaca,San Andrés Tepetlapa,96.6
+Oaxaca,San Andrés Yaá,83.3
+Oaxaca,San Andrés Zabache,88.4
+Oaxaca,San Andrés Zautla,42.6
+Oaxaca,San Antonino Castillo Velasco,92
+Oaxaca,San Antonino el Alto,88.3
+Oaxaca,San Antonino Monte Verde,97.9
+Oaxaca,San Antonio Acutla,92.9
+Oaxaca,San Antonio de la Cal,51.3
+Oaxaca,San Antonio Huitepec,96.2
+Oaxaca,San Antonio Nanahuatípam,71.6
+Oaxaca,San Antonio Sinicahua,96.8
+Oaxaca,San Antonio Tepetlapa,94.7
+Oaxaca,San Baltazar Chichicápam,80.9
+Oaxaca,San Baltazar Loxicha,88.1
+Oaxaca,San Baltazar Yatzachi el Bajo,92.1
+Oaxaca,San Bartolo Coyotepec,37
+Oaxaca,San Bartolomé Ayautla,98.4
+Oaxaca,San Bartolomé Loxicha,95.1
+Oaxaca,San Bartolomé Quialana,82.3
+Oaxaca,San Bartolomé Yucuañe,97.7
+Oaxaca,San Bartolomé Zoogocho,77
+Oaxaca,San Bartolo Soyaltepec,89.5
+Oaxaca,San Bartolo Yautepec,90.1
+Oaxaca,San Bernardo Mixtepec,87.5
+Oaxaca,San Blas Atempa,74.1
+Oaxaca,San Carlos Yautepec,90.1
+Oaxaca,San Cristóbal Amatlán,98.4
+Oaxaca,San Cristóbal Amoltepec,94.6
+Oaxaca,San Cristóbal Lachirioag,77.6
+Oaxaca,San Cristóbal Suchixtlahuaca,68.6
+Oaxaca,San Dionisio del Mar,84.4
+Oaxaca,San Dionisio Ocotepec,82.1
+Oaxaca,San Dionisio Ocotlán,60.7
+Oaxaca,San Esteban Atatlahuca,96.5
+Oaxaca,San Felipe Jalapa de Díaz,94
+Oaxaca,San Felipe Tejalápam,68.2
+Oaxaca,San Felipe Usila,94.2
+Oaxaca,San Francisco Cahuacuá,96.4
+Oaxaca,San Francisco Cajonos,83.1
+Oaxaca,San Francisco Chapulapa,96
+Oaxaca,San Francisco Chindúa,0
+Oaxaca,San Francisco del Mar,86.4
+Oaxaca,San Francisco Huehuetlán,96
+Oaxaca,San Francisco Ixhuatán,78.2
+Oaxaca,San Francisco Jaltepetongo,92.4
+Oaxaca,San Francisco Lachigoló,56.5
+Oaxaca,San Francisco Logueche,95.1
+Oaxaca,San Francisco Nuxaño,89.5
+Oaxaca,San Francisco Ozolotepec,98.3
+Oaxaca,San Francisco Sola,76.8
+Oaxaca,San Francisco Telixtlahuaca,63.3
+Oaxaca,San Francisco Teopan,97.4
+Oaxaca,San Francisco Tlapancingo,94.7
+Oaxaca,San Gabriel Mixtepec,83.4
+Oaxaca,San Ildefonso Amatlán,94.6
+Oaxaca,San Ildefonso Sola,90.4
+Oaxaca,San Ildefonso Villa Alta,81.7
+Oaxaca,San Jacinto Amilpas,37.1
+Oaxaca,San Jacinto Tlacotepec,92.3
+Oaxaca,San Jerónimo Coatlán,96.5
+Oaxaca,San Jerónimo Silacayoapilla,67.1
+Oaxaca,San Jerónimo Sosola,91.7
+Oaxaca,San Jerónimo Taviche,90.9
+Oaxaca,San Jerónimo Tecóatl,88.9
+Oaxaca,San Jorge Nuchita,92.5
+Oaxaca,San José Ayuquila,83.3
+Oaxaca,San José Chiltepec,68
+Oaxaca,San José del Peñasco,92
+Oaxaca,San José Estancia Grande,68.2
+Oaxaca,San José Independencia,92.7
+Oaxaca,San José Lachiguiri,97.8
+Oaxaca,San José Tenango,95.3
+Oaxaca,San Juan Achiutla,87.8
+Oaxaca,San Juan Atepec,93.2
+Oaxaca,Ánimas Trujano,45.6
+Oaxaca,San Juan Bautista Atatlahuca,95.7
+Oaxaca,San Juan Bautista Coixtlahuaca,85.2
+Oaxaca,San Juan Bautista Cuicatlán,76.3
+Oaxaca,San Juan Bautista Guelache,42.8
+Oaxaca,San Juan Bautista Jayacatlán,92.1
+Oaxaca,San Juan Bautista Lo de Soto,58.5
+Oaxaca,San Juan Bautista Suchitepec,87.1
+Oaxaca,San Juan Bautista Tlacoatzintepec,97.5
+Oaxaca,San Juan Bautista Tlachichilco,95.8
+Oaxaca,San Juan Bautista Tuxtepec,55.4
+Oaxaca,San Juan Cacahuatepec,82.1
+Oaxaca,San Juan Cieneguilla,78.5
+Oaxaca,San Juan Coatzóspam,97.2
+Oaxaca,San Juan Colorado,82.1
+Oaxaca,San Juan Comaltepec,98.2
+Oaxaca,San Juan Cotzocón,72.9
+Oaxaca,San Juan Chicomezúchil,61.9
+Oaxaca,San Juan Chilateca,44.4
+Oaxaca,San Juan del Estado,76.1
+Oaxaca,San Juan del Río,83.3
+Oaxaca,San Juan Diuxi,88.6
+Oaxaca,San Juan Evangelista Analco,86
+Oaxaca,San Juan Guelavía,84.8
+Oaxaca,San Juan Guichicovi,74.2
+Oaxaca,San Juan Ihualtepec,96.9
+Oaxaca,San Juan Juquila Mixes,92.2
+Oaxaca,San Juan Juquila Vijanos,95
+Oaxaca,San Juan Lachao,85.8
+Oaxaca,San Juan Lachigalla,97.5
+Oaxaca,San Juan Lajarcia,91.1
+Oaxaca,San Juan Lalana,93
+Oaxaca,San Juan de los Cués,77.2
+Oaxaca,San Juan Mazatlán,84.9
+Oaxaca,San Juan Mixtepec -Dto. 08 -,88.2
+Oaxaca,San Juan Mixtepec -Dto. 26 -,95.4
+Oaxaca,San Juan Ñumí,96.2
+Oaxaca,San Juan Ozolotepec,99.4
+Oaxaca,San Juan Petlapa,98.3
+Oaxaca,San Juan Quiahije,93.5
+Oaxaca,San Juan Quiotepec,94.1
+Oaxaca,San Juan Sayultepec,54.7
+Oaxaca,San Juan Tabaá,94.4
+Oaxaca,San Juan Tamazola,97.3
+Oaxaca,San Juan Teita,99.1
+Oaxaca,San Juan Teitipac,90.6
+Oaxaca,San Juan Tepeuxila,97.1
+Oaxaca,San Juan Teposcolula,81.1
+Oaxaca,San Juan Yaeé,93.2
+Oaxaca,San Juan Yatzona,93.7
+Oaxaca,San Juan Yucuita,69.7
+Oaxaca,San Lorenzo,89.2
+Oaxaca,San Lorenzo Albarradas,84.7
+Oaxaca,San Lorenzo Cacaotepec,44.7
+Oaxaca,San Lorenzo Cuaunecuiltitla,98.4
+Oaxaca,San Lorenzo Texmelúcan,99.1
+Oaxaca,San Lorenzo Victoria,73.9
+Oaxaca,San Lucas Camotlán,95
+Oaxaca,San Lucas Ojitlán,93.5
+Oaxaca,San Lucas Quiaviní,86
+Oaxaca,San Lucas Zoquiápam,96.8
+Oaxaca,San Luis Amatlán,92.8
+Oaxaca,San Marcial Ozolotepec,97.9
+Oaxaca,San Marcos Arteaga,69
+Oaxaca,San Martín de los Cansecos,89.9
+Oaxaca,San Martín Huamelúlpam,84
+Oaxaca,San Martín Itunyoso,96.6
+Oaxaca,San Martín Lachilá,81
+Oaxaca,San Martín Peras,98.7
+Oaxaca,San Martín Tilcajete,57.5
+Oaxaca,San Martín Toxpalan,84.3
+Oaxaca,San Martín Zacatepec,81.2
+Oaxaca,San Mateo Cajonos,94.6
+Oaxaca,Capulálpam de Méndez,40
+Oaxaca,San Mateo del Mar,93
+Oaxaca,San Mateo Yoloxochitlán,93.1
+Oaxaca,San Mateo Etlatongo,79.4
+Oaxaca,San Mateo Nejápam,96.3
+Oaxaca,San Mateo Peñasco,95.8
+Oaxaca,San Mateo Piñas,91
+Oaxaca,San Mateo Río Hondo,91.3
+Oaxaca,San Mateo Sindihui,92.7
+Oaxaca,San Mateo Tlapiltepec,90.9
+Oaxaca,San Melchor Betaza,94.6
+Oaxaca,San Miguel Achiutla,93.4
+Oaxaca,San Miguel Ahuehuetitlán,96
+Oaxaca,San Miguel Aloápam,88.8
+Oaxaca,San Miguel Amatitlán,94.5
+Oaxaca,San Miguel Amatlán,88.5
+Oaxaca,San Miguel Coatlán,86.9
+Oaxaca,San Miguel Chicahua,96.1
+Oaxaca,San Miguel Chimalapa,87.9
+Oaxaca,San Miguel del Puerto,78
+Oaxaca,San Miguel del Río,85.3
+Oaxaca,San Miguel Ejutla,68.7
+Oaxaca,San Miguel el Grande,73
+Oaxaca,San Miguel Huautla,96.9
+Oaxaca,San Miguel Mixtepec,98.9
+Oaxaca,San Miguel Panixtlahuaca,94.8
+Oaxaca,San Miguel Peras,98
+Oaxaca,San Miguel Piedras,98
+Oaxaca,San Miguel Quetzaltepec,98.3
+Oaxaca,San Miguel Santa Flor,94.4
+Oaxaca,Villa Sola de Vega,82.5
+Oaxaca,San Miguel Soyaltepec,77.5
+Oaxaca,San Miguel Suchixtepec,86.4
+Oaxaca,Villa Talea de Castro,78.7
+Oaxaca,San Miguel Tecomatlán,78.3
+Oaxaca,San Miguel Tenango,96.5
+Oaxaca,San Miguel Tequixtepec,87.7
+Oaxaca,San Miguel Tilquiápam,99.2
+Oaxaca,San Miguel Tlacamama,71.5
+Oaxaca,San Miguel Tlacotepec,81
+Oaxaca,San Miguel Tulancingo,90.1
+Oaxaca,San Miguel Yotao,97.3
+Oaxaca,San Nicolás,73.3
+Oaxaca,San Nicolás Hidalgo,78.7
+Oaxaca,San Pablo Coatlán,94.8
+Oaxaca,San Pablo Cuatro Venados,98.5
+Oaxaca,San Pablo Etla,37.1
+Oaxaca,San Pablo Huitzo,58.3
+Oaxaca,San Pablo Huixtepec,70.9
+Oaxaca,San Pablo Macuiltianguis,94.1
+Oaxaca,San Pablo Tijaltepec,98.8
+Oaxaca,San Pablo Villa de Mitla,75
+Oaxaca,San Pablo Yaganiza,94.3
+Oaxaca,San Pedro Amuzgos,88.3
+Oaxaca,San Pedro Apóstol,55.9
+Oaxaca,San Pedro Atoyac,96.5
+Oaxaca,San Pedro Cajonos,85.7
+Oaxaca,San Pedro Coxcaltepec Cántaros,96.9
+Oaxaca,San Pedro Comitancillo,47.5
+Oaxaca,San Pedro el Alto,95.1
+Oaxaca,San Pedro Huamelula,60.1
+Oaxaca,San Pedro Huilotepec,75.5
+Oaxaca,San Pedro Ixcatlán,80.2
+Oaxaca,San Pedro Ixtlahuaca,59.7
+Oaxaca,San Pedro Jaltepetongo,97.2
+Oaxaca,San Pedro Jicayán,82.7
+Oaxaca,San Pedro Jocotipac,97
+Oaxaca,San Pedro Juchatengo,77.9
+Oaxaca,San Pedro Mártir,86.5
+Oaxaca,San Pedro Mártir Quiechapa,93
+Oaxaca,San Pedro Mártir Yucuxaco,88.1
+Oaxaca,San Pedro Mixtepec -Dto. 22 -,60
+Oaxaca,San Pedro Mixtepec -Dto. 26 -,94.9
+Oaxaca,San Pedro Molinos,89.7
+Oaxaca,San Pedro Nopala,97.8
+Oaxaca,San Pedro Ocopetatillo,97.3
+Oaxaca,San Pedro Ocotepec,96.4
+Oaxaca,San Pedro Pochutla,63.3
+Oaxaca,San Pedro Quiatoni,98.3
+Oaxaca,San Pedro Sochiápam,97.8
+Oaxaca,San Pedro Tapanatepec,64.9
+Oaxaca,San Pedro Taviche,99
+Oaxaca,San Pedro Teozacoalco,98.2
+Oaxaca,San Pedro Teutila,92.2
+Oaxaca,San Pedro Tidaá,92.6
+Oaxaca,San Pedro Topiltepec,92.6
+Oaxaca,San Pedro Totolápam,47
+Oaxaca,Villa de Tututepec de Melchor Ocampo,63.7
+Oaxaca,San Pedro Yaneri,94.1
+Oaxaca,San Pedro Yólox,94.3
+Oaxaca,San Pedro y San Pablo Ayutla,89.6
+Oaxaca,Villa de Etla,48.6
+Oaxaca,San Pedro y San Pablo Teposcolula,62.4
+Oaxaca,San Pedro y San Pablo Tequixtepec,87.3
+Oaxaca,San Pedro Yucunama,84.5
+Oaxaca,San Raymundo Jalpan,29
+Oaxaca,San Sebastián Abasolo,67.1
+Oaxaca,San Sebastián Coatlán,92.1
+Oaxaca,San Sebastián Ixcapa,77.7
+Oaxaca,San Sebastián Nicananduta,97
+Oaxaca,San Sebastián Río Hondo,93.7
+Oaxaca,San Sebastián Tecomaxtlahuaca,80.6
+Oaxaca,San Sebastián Teitipac,63.5
+Oaxaca,San Sebastián Tutla,27.8
+Oaxaca,San Simón Almolongas,87.5
+Oaxaca,San Simón Zahuatlán,99.4
+Oaxaca,Santa Ana,85.5
+Oaxaca,Santa Ana Ateixtlahuaca,93.9
+Oaxaca,Santa Ana Cuauhtémoc,95.8
+Oaxaca,Santa Ana del Valle,75
+Oaxaca,Santa Ana Tavela,85.2
+Oaxaca,Santa Ana Tlapacoyan,80
+Oaxaca,Santa Ana Yareni,89.1
+Oaxaca,Santa Ana Zegache,88.8
+Oaxaca,Santa Catalina Quierí,97.5
+Oaxaca,Santa Catarina Cuixtla,73.6
+Oaxaca,Santa Catarina Ixtepeji,80
+Oaxaca,Santa Catarina Juquila,76.3
+Oaxaca,Santa Catarina Lachatao,93.1
+Oaxaca,Santa Catarina Loxicha,98
+Oaxaca,Santa Catarina Mechoacán,92.8
+Oaxaca,Santa Catarina Minas,79.7
+Oaxaca,Santa Catarina Quiané,53.6
+Oaxaca,Santa Catarina Tayata,79.3
+Oaxaca,Santa Catarina Ticuá,85.8
+Oaxaca,Santa Catarina Yosonotú,90.4
+Oaxaca,Santa Catarina Zapoquila,97.3
+Oaxaca,Santa Cruz Acatepec,94.3
+Oaxaca,Santa Cruz Amilpas,47.9
+Oaxaca,Santa Cruz de Bravo,81.4
+Oaxaca,Santa Cruz Itundujia,82
+Oaxaca,Santa Cruz Mixtepec,83.8
+Oaxaca,Santa Cruz Nundaco,92.4
+Oaxaca,Santa Cruz Papalutla,68.8
+Oaxaca,Santa Cruz Tacache de Mina,69
+Oaxaca,Santa Cruz Tacahua,95.6
+Oaxaca,Santa Cruz Tayata,94.1
+Oaxaca,Santa Cruz Xitla,95.6
+Oaxaca,Santa Cruz Xoxocotlán,51.2
+Oaxaca,Santa Cruz Zenzontepec,97.9
+Oaxaca,Santa Gertrudis,62
+Oaxaca,Santa Inés del Monte,96.3
+Oaxaca,Santa Inés Yatzeche,94.7
+Oaxaca,Santa Lucía del Camino,39.7
+Oaxaca,Santa Lucía Miahuatlán,93.7
+Oaxaca,Santa Lucía Monteverde,97.3
+Oaxaca,Santa Lucía Ocotlán,95.7
+Oaxaca,Santa María Alotepec,95.1
+Oaxaca,Santa María Apazco,86.9
+Oaxaca,Santa María la Asunción,96.7
+Oaxaca,Heroica Ciudad de Tlaxiaco,57.5
+Oaxaca,Ayoquezco de Aldama,88.7
+Oaxaca,Santa María Atzompa,47
+Oaxaca,Santa María Camotlán,65.2
+Oaxaca,Santa María Colotepec,62
+Oaxaca,Santa María Cortijo,77.4
+Oaxaca,Santa María Coyotepec,32.9
+Oaxaca,Santa María Chachoápam,71.8
+Oaxaca,Villa de Chilapa de Díaz,75.3
+Oaxaca,Santa María Chilchotla,95.9
+Oaxaca,Santa María Chimalapa,0
+Oaxaca,Santa María del Rosario,80.9
+Oaxaca,Santa María del Tule,37.3
+Oaxaca,Santa María Ecatepec,94.3
+Oaxaca,Santa María Guelacé,61.8
+Oaxaca,Santa María Guienagati,94.9
+Oaxaca,Santa María Huatulco,49.2
+Oaxaca,Santa María Huazolotitlán,76.5
+Oaxaca,Santa María Ipalapa,87.8
+Oaxaca,Santa María Ixcatlán,90.8
+Oaxaca,Santa María Jacatepec,76.3
+Oaxaca,Santa María Jalapa del Marqués,57.6
+Oaxaca,Santa María Jaltianguis,85.5
+Oaxaca,Santa María Lachixío,94.4
+Oaxaca,Santa María Mixtequilla,67.1
+Oaxaca,Santa María Nativitas,88.1
+Oaxaca,Santa María Nduayaco,94
+Oaxaca,Santa María Ozolotepec,97.6
+Oaxaca,Santa María Pápalo,97.8
+Oaxaca,Santa María Peñoles,98.7
+Oaxaca,Santa María Petapa,0
+Oaxaca,Santa María Quiegolani,97.8
+Oaxaca,Santa María Sola,96.5
+Oaxaca,Santa María Tataltepec,97
+Oaxaca,Santa María Tecomavaca,75.2
+Oaxaca,Santa María Temaxcalapa,94.2
+Oaxaca,Santa María Temaxcaltepec,91.9
+Oaxaca,Santa María Teopoxco,96.8
+Oaxaca,Santa María Tepantlali,88.9
+Oaxaca,Santa María Texcatitlán,96.2
+Oaxaca,Santa María Tlahuitoltepec,90.1
+Oaxaca,Santa María Tlalixtac,94.3
+Oaxaca,Santa María Tonameca,69.7
+Oaxaca,Santa María Totolapilla,90.6
+Oaxaca,Santa María Xadani,86.9
+Oaxaca,Santa María Yalina,82.6
+Oaxaca,Santa María Yavesía,90.6
+Oaxaca,Santa María Yolotepec,94.4
+Oaxaca,Santa María Yosoyúa,98.3
+Oaxaca,Santa María Yucuhiti,97.6
+Oaxaca,Santa María Zacatepec,80.8
+Oaxaca,Santa María Zaniza,99.7
+Oaxaca,Santa María Zoquitlán,89.8
+Oaxaca,Santiago Amoltepec,98.8
+Oaxaca,Santiago Apoala,98.2
+Oaxaca,Santiago Apóstol,95.8
+Oaxaca,Santiago Astata,64.6
+Oaxaca,Santiago Atitlán,95.6
+Oaxaca,Santiago Ayuquililla,89.4
+Oaxaca,Santiago Cacaloxtepec,75.3
+Oaxaca,Santiago Camotlán,98.4
+Oaxaca,Santiago Comaltepec,89.5
+Oaxaca,Santiago Chazumba,78.1
+Oaxaca,Santiago Choápam,95
+Oaxaca,Santiago del Río,95.3
+Oaxaca,Santiago Huajolotitlán,60.6
+Oaxaca,Santiago Huauclilla,93.7
+Oaxaca,Santiago Ihuitlán Plumas,87.8
+Oaxaca,Santiago Ixcuintepec,92.6
+Oaxaca,Santiago Ixtayutla,97.3
+Oaxaca,Santiago Jamiltepec,69.2
+Oaxaca,Santiago Jocotepec,86.4
+Oaxaca,Santiago Juxtlahuaca,75.4
+Oaxaca,Santiago Lachiguiri,84.9
+Oaxaca,Santiago Lalopa,88.8
+Oaxaca,Santiago Laollaga,64.9
+Oaxaca,Santiago Laxopa,95.6
+Oaxaca,Santiago Llano Grande,65.7
+Oaxaca,Santiago Matatlán,88.7
+Oaxaca,Santiago Miltepec,83.7
+Oaxaca,Santiago Minas,94.2
+Oaxaca,Santiago Nacaltepec,92.5
+Oaxaca,Santiago Nejapilla,97.7
+Oaxaca,Santiago Nundiche,96.3
+Oaxaca,Santiago Nuyoó,98.4
+Oaxaca,Santiago Pinotepa Nacional,65.5
+Oaxaca,Santiago Suchilquitongo,68.7
+Oaxaca,Santiago Tamazola,80.9
+Oaxaca,Santiago Tapextla,87.5
+Oaxaca,Villa Tejúpam de la Unión,71.4
+Oaxaca,Santiago Tenango,80.2
+Oaxaca,Santiago Tepetlapa,96.1
+Oaxaca,Santiago Tetepec,91.1
+Oaxaca,Santiago Texcalcingo,98.8
+Oaxaca,Santiago Textitlán,98.1
+Oaxaca,Santiago Tilantongo,93.4
+Oaxaca,Santiago Tillo,79.7
+Oaxaca,Santiago Tlazoyaltepec,99.2
+Oaxaca,Santiago Xanica,95.5
+Oaxaca,Santiago Xiacuí,73.6
+Oaxaca,Santiago Yaitepec,96.1
+Oaxaca,Santiago Yaveo,72.2
+Oaxaca,Santiago Yolomécatl,54.2
+Oaxaca,Santiago Yosondúa,88.1
+Oaxaca,Santiago Yucuyachi,76
+Oaxaca,Santiago Zacatepec,93.3
+Oaxaca,Santiago Zoochila,78.8
+Oaxaca,Nuevo Zoquiápam,86.5
+Oaxaca,Santo Domingo Ingenio,63.3
+Oaxaca,Santo Domingo Albarradas,87
+Oaxaca,Santo Domingo Armenta,88.1
+Oaxaca,Santo Domingo Chihuitán,54.6
+Oaxaca,Santo Domingo de Morelos,91.9
+Oaxaca,Santo Domingo Ixcatlán,94.3
+Oaxaca,Santo Domingo Nuxaá,98.2
+Oaxaca,Santo Domingo Ozolotepec,99.3
+Oaxaca,Santo Domingo Petapa,85
+Oaxaca,Santo Domingo Roayaga,97.7
+Oaxaca,Santo Domingo Tehuantepec,54.5
+Oaxaca,Santo Domingo Teojomulco,92.3
+Oaxaca,Santo Domingo Tepuxtepec,94.7
+Oaxaca,Santo Domingo Tlatayápam,84.6
+Oaxaca,Santo Domingo Tomaltepec,52.3
+Oaxaca,Santo Domingo Tonalá,74.2
+Oaxaca,Santo Domingo Tonaltepec,97.4
+Oaxaca,Santo Domingo Xagacía,94.2
+Oaxaca,Santo Domingo Yanhuitlán,78.3
+Oaxaca,Santo Domingo Yodohino,95.3
+Oaxaca,Santo Domingo Zanatepec,67.2
+Oaxaca,Santos Reyes Nopala,76.3
+Oaxaca,Santos Reyes Pápalo,98
+Oaxaca,Santos Reyes Tepejillo,92.9
+Oaxaca,Santos Reyes Yucuná,99.9
+Oaxaca,Santo Tomás Jalieza,84.7
+Oaxaca,Santo Tomás Mazaltepec,67.9
+Oaxaca,Santo Tomás Ocotepec,96.8
+Oaxaca,Santo Tomás Tamazulapan,75.3
+Oaxaca,San Vicente Coatlán,97.4
+Oaxaca,San Vicente Lachixío,97
+Oaxaca,San Vicente Nuñú,84.8
+Oaxaca,Silacayoápam,75.7
+Oaxaca,Sitio de Xitlapehua,86.8
+Oaxaca,Soledad Etla,63.5
+Oaxaca,Villa de Tamazulápam del Progreso,63
+Oaxaca,Tanetze de Zaragoza,88.6
+Oaxaca,Taniche,83
+Oaxaca,Tataltepec de Valdés,95.3
+Oaxaca,Teococuilco de Marcos Pérez,84.5
+Oaxaca,Teotitlán de Flores Magón,66.7
+Oaxaca,Teotitlán del Valle,80
+Oaxaca,Teotongo,85.9
+Oaxaca,Tepelmeme Villa de Morelos,77.8
+Oaxaca,Tezoatlán de Segura y Luna,72.7
+Oaxaca,San Jerónimo Tlacochahuaya,68
+Oaxaca,Tlacolula de Matamoros,50.7
+Oaxaca,Tlacotepec Plumas,90.8
+Oaxaca,Tlalixtac de Cabrera,62.7
+Oaxaca,Totontepec Villa de Morelos,96.3
+Oaxaca,Trinidad Zaachila,69.2
+Oaxaca,La Trinidad Vista Hermosa,87.5
+Oaxaca,Unión Hidalgo,57.6
+Oaxaca,Valerio Trujano,78
+Oaxaca,San Juan Bautista Valle Nacional,77.8
+Oaxaca,Villa Díaz Ordaz,92.9
+Oaxaca,Yaxe,97.2
+Oaxaca,Magdalena Yodocono de Porfirio Díaz,71.4
+Oaxaca,Yogana,88.7
+Oaxaca,Yutanduchi de Guerrero,98.4
+Oaxaca,Villa de Zaachila,56.8
+Oaxaca,San Mateo Yucutindó,95.4
+Oaxaca,Zapotitlán Lagunas,88.8
+Oaxaca,Zapotitlán Palmas,85.7
+Oaxaca,Santa Inés de Zaragoza,93.4
+Oaxaca,Zimatlán de Álvarez,66.5
+Puebla,Acajete,77.7
+Puebla,Acateno,76.5
+Puebla,Acatlán,67.8
+Puebla,Acatzingo,79.8
+Puebla,Acteopan,83.6
+Puebla,Ahuacatlán,74.6
+Puebla,Ahuatlán,91.7
+Puebla,Ahuazotepec,55.9
+Puebla,Ahuehuetitla,85.6
+Puebla,Ajalpan,79.8
+Puebla,Albino Zertuche,81.3
+Puebla,Aljojuca,81.6
+Puebla,Altepexi,73.8
+Puebla,Amixtlán,88.9
+Puebla,Amozoc,57.8
+Puebla,Aquixtla,77.2
+Puebla,Atempan,77.9
+Puebla,Atexcal,79.5
+Puebla,Atlixco,59.4
+Puebla,Atoyatempan,89.8
+Puebla,Atzala,68.2
+Puebla,Atzitzihuacán,86.3
+Puebla,Atzitzintla,93.2
+Puebla,Axutla,80.1
+Puebla,Ayotoxco de Guerrero,76.2
+Puebla,Calpan,80.3
+Puebla,Caltepec,88.3
+Puebla,Camocuautla,91.8
+Puebla,Caxhuacan,83.8
+Puebla,Coatepec,88.1
+Puebla,Coatzingo,85.2
+Puebla,Cohetzala,93.8
+Puebla,Cohuecan,83
+Puebla,Coronango,69.6
+Puebla,Coxcatlán,66.3
+Puebla,Coyomeapan,93.9
+Puebla,Coyotepec,67.2
+Puebla,Cuapiaxtla de Madero,74.9
+Puebla,Cuautempan,81.4
+Puebla,Cuautinchán,62.8
+Puebla,Cuautlancingo,39.3
+Puebla,Cuayuca de Andrade,88.6
+Puebla,Cuetzalan del Progreso,74.2
+Puebla,Cuyoaco,73.3
+Puebla,Chalchicomula de Sesma,70.8
+Puebla,Chapulco,74.9
+Puebla,Chiautla,69.9
+Puebla,Chiautzingo,78
+Puebla,Chiconcuautla,85.2
+Puebla,Chichiquila,85.6
+Puebla,Chietla,62.7
+Puebla,Chigmecatitlán,91.1
+Puebla,Chignahuapan,73.2
+Puebla,Chignautla,72.1
+Puebla,Chila,84
+Puebla,Chila de la Sal,83.7
+Puebla,Honey,84.4
+Puebla,Chilchotla,90.6
+Puebla,Chinantla,77.3
+Puebla,Domingo Arenas,83.3
+Puebla,Eloxochitlán,96.6
+Puebla,Epatlán,69.2
+Puebla,Esperanza,72.7
+Puebla,Francisco Z. Mena,71.6
+Puebla,General Felipe Ángeles,79.5
+Puebla,Guadalupe,87.4
+Puebla,Guadalupe Victoria,75.8
+Puebla,Hermenegildo Galeana,86.6
+Puebla,Huaquechula,74.1
+Puebla,Huatlatlauca,90.3
+Puebla,Huauchinango,63.2
+Puebla,Huehuetla,85.1
+Puebla,Huehuetlán el Chico,90.9
+Puebla,Huejotzingo,61
+Puebla,Hueyapan,83.9
+Puebla,Hueytamalco,72.9
+Puebla,Hueytlalpan,88.6
+Puebla,Huitzilan de Serdán,83.2
+Puebla,Huitziltepec,76.2
+Puebla,Atlequizayan,88.9
+Puebla,Ixcamilpa de Guerrero,89.5
+Puebla,Ixcaquixtla,71.9
+Puebla,Ixtacamaxtitlán,80.3
+Puebla,Ixtepec,88.6
+Puebla,Izúcar de Matamoros,64.7
+Puebla,Jalpan,75
+Puebla,Jolalpan,87.1
+Puebla,Jonotla,79.4
+Puebla,Jopala,82
+Puebla,Juan C. Bonilla,67.8
+Puebla,Juan Galindo,56.5
+Puebla,Juan N. Méndez,87.2
+Puebla,Lafragua,84.4
+Puebla,Libres,73.9
+Puebla,La Magdalena Tlatlauquitepec,88.6
+Puebla,Mazapiltepec de Juárez,72.1
+Puebla,Mixtla,67.2
+Puebla,Molcaxac,82.1
+Puebla,Cañada Morelos,78.3
+Puebla,Naupan,85.7
+Puebla,Nauzontla,80.1
+Puebla,Nealtican,79.2
+Puebla,Nicolás Bravo,86
+Puebla,Nopalucan,71.8
+Puebla,Ocotepec,76.1
+Puebla,Ocoyucan,75.5
+Puebla,Olintla,83.9
+Puebla,Oriental,71.8
+Puebla,Pahuatlán,79
+Puebla,Palmar de Bravo,81.9
+Puebla,Pantepec,76.9
+Puebla,Petlalcingo,87.4
+Puebla,Piaxtla,81.4
+Puebla,Puebla,40.6
+Puebla,Quecholac,80.9
+Puebla,Quimixtlán,82.8
+Puebla,Rafael Lara Grajales,62.6
+Puebla,Los Reyes de Juárez,84.7
+Puebla,San Andrés Cholula,39.7
+Puebla,San Antonio Cañada,84
+Puebla,San Diego la Mesa Tochimiltzingo,93.6
+Puebla,San Felipe Teotlalcingo,72.4
+Puebla,San Felipe Tepatlán,85.2
+Puebla,San Gabriel Chilac,76.1
+Puebla,San Gregorio Atzompa,59.9
+Puebla,San Jerónimo Tecuanipan,72.7
+Puebla,San Jerónimo Xayacatlán,76.5
+Puebla,San José Chiapa,74
+Puebla,San José Miahuatlán,76.8
+Puebla,San Juan Atenco,78.6
+Puebla,San Juan Atzompa,86.8
+Puebla,San Martín Texmelucan,60.4
+Puebla,San Martín Totoltepec,82.8
+Puebla,San Matías Tlalancaleca,73.4
+Puebla,San Miguel Ixitlán,97.6
+Puebla,San Miguel Xoxtla,48.1
+Puebla,San Nicolás Buenos Aires,86.9
+Puebla,San Nicolás de los Ranchos,0
+Puebla,San Pablo Anicano,76.8
+Puebla,San Pedro Cholula,53.3
+Puebla,San Pedro Yeloixtlahuaca,74
+Puebla,San Salvador el Seco,80.1
+Puebla,San Salvador el Verde,72.1
+Puebla,San Salvador Huixcolotla,78.1
+Puebla,San Sebastián Tlacotepec,85
+Puebla,Santa Catarina Tlaltempan,89.2
+Puebla,Santa Inés Ahuatempan,90.5
+Puebla,Santa Isabel Cholula,67.9
+Puebla,Santiago Miahuatlán,65.8
+Puebla,Huehuetlán el Grande,86.5
+Puebla,Santo Tomás Hueyotlipan,86.2
+Puebla,Soltepec,85.1
+Puebla,Tecali de Herrera,69.3
+Puebla,Tecamachalco,71.7
+Puebla,Tecomatlán,77.5
+Puebla,Tehuacán,56.7
+Puebla,Tehuitzingo,75.7
+Puebla,Tenampulco,71.6
+Puebla,Teopantlán,94.7
+Puebla,Teotlalco,74.6
+Puebla,Tepanco de López,65.4
+Puebla,Tepango de Rodríguez,92.9
+Puebla,Tepatlaxco de Hidalgo,76.8
+Puebla,Tepeaca,69.6
+Puebla,Tepemaxalco,96.3
+Puebla,Tepeojuma,78.8
+Puebla,Tepetzintla,84.5
+Puebla,Tepexco,87.2
+Puebla,Tepexi de Rodríguez,69.8
+Puebla,Tepeyahualco,72.9
+Puebla,Tepeyahualco de Cuauhtémoc,76.6
+Puebla,Tetela de Ocampo,71.7
+Puebla,Teteles de Avila Castillo,62.7
+Puebla,Teziutlán,55.2
+Puebla,Tianguismanalco,68.2
+Puebla,Tilapa,65.4
+Puebla,Tlacotepec de Benito Juárez,78.1
+Puebla,Tlacuilotepec,73.3
+Puebla,Tlachichuca,80.4
+Puebla,Tlahuapan,75.8
+Puebla,Tlaltenango,75
+Puebla,Tlanepantla,92.2
+Puebla,Tlaola,83.7
+Puebla,Tlapacoya,87.2
+Puebla,Tlapanalá,77.4
+Puebla,Tlatlauquitepec,70.2
+Puebla,Tlaxco,77.1
+Puebla,Tochimilco,84.2
+Puebla,Tochtepec,77.8
+Puebla,Totoltepec de Guerrero,76
+Puebla,Tulcingo,85.7
+Puebla,Tuzamapan de Galeana,76.9
+Puebla,Tzicatlacoyan,83
+Puebla,Venustiano Carranza,70.6
+Puebla,Vicente Guerrero,94.9
+Puebla,Xayacatlán de Bravo,72.9
+Puebla,Xicotepec,68.5
+Puebla,Xicotlán,95.6
+Puebla,Xiutetelco,74.1
+Puebla,Xochiapulco,81.7
+Puebla,Xochiltepec,78.3
+Puebla,Xochitlán de Vicente Suárez,82.2
+Puebla,Xochitlán Todos Santos,91.8
+Puebla,Yaonáhuac,73
+Puebla,Yehualtepec,80.6
+Puebla,Zacapala,85.5
+Puebla,Zacapoaxtla,71.7
+Puebla,Zacatlán,66.6
+Puebla,Zapotitlán,77.6
+Puebla,Zapotitlán de Méndez,76.6
+Puebla,Zaragoza,60.5
+Puebla,Zautla,81.8
+Puebla,Zihuateutla,75.9
+Puebla,Zinacatepec,78.4
+Puebla,Zongozotla,92.6
+Puebla,Zoquiapan,86.5
+Puebla,Zoquitlán,97.9
+Querétaro,Amealco de Bonfil,61.9
+Querétaro,Pinal de Amoles,71.5
+Querétaro,Arroyo Seco,51.6
+Querétaro,Cadereyta de Montes,51.8
+Querétaro,Colón,40.7
+Querétaro,Corregidora,14.1
+Querétaro,Ezequiel Montes,51.3
+Querétaro,Huimilpan,41.2
+Querétaro,Jalpan de Serra,58.9
+Querétaro,Landa de Matamoros,60.3
+Querétaro,El Marqués,29.8
+Querétaro,Pedro Escobedo,34.8
+Querétaro,Peñamiller,62.1
+Querétaro,Querétaro,23
+Querétaro,San Joaquín,40.8
+Querétaro,San Juan del Río,31
+Querétaro,Tequisquiapan,42.6
+Querétaro,Tolimán,58
+Quintana Roo,Cozumel,31.3
+Quintana Roo,Felipe Carrillo Puerto,71.8
+Quintana Roo,Isla Mujeres,35.4
+Quintana Roo,Othón P. Blanco,37.3
+Quintana Roo,Benito Juárez,27.7
+Quintana Roo,José María Morelos,79.5
+Quintana Roo,Lázaro Cárdenas,61.7
+Quintana Roo,Solidaridad,19.6
+Quintana Roo,Tulum,32.2
+Quintana Roo,Bacalar,78.2
+San Luis Potosí,Ahualulco,65.6
+San Luis Potosí,Alaquines,82.6
+San Luis Potosí,Aquismón,76.8
+San Luis Potosí,Armadillo de los Infante,68.7
+San Luis Potosí,Cárdenas,55.5
+San Luis Potosí,Catorce,66.8
+San Luis Potosí,Cedral,52.4
+San Luis Potosí,Cerritos,54.4
+San Luis Potosí,Cerro de San Pedro,26.9
+San Luis Potosí,Ciudad del Maíz,74.6
+San Luis Potosí,Ciudad Fernández,58.9
+San Luis Potosí,Tancanhuitz,75.8
+San Luis Potosí,Ciudad Valles,42.8
+San Luis Potosí,Coxcatlán,85
+San Luis Potosí,Charcas,46.1
+San Luis Potosí,Ebano,63.5
+San Luis Potosí,Guadalcázar,73.6
+San Luis Potosí,Huehuetlán,73.2
+San Luis Potosí,Lagunillas,80.9
+San Luis Potosí,Matehuala,37.6
+San Luis Potosí,Mexquitic de Carmona,51.9
+San Luis Potosí,Moctezuma,69.4
+San Luis Potosí,Rayón,69.3
+San Luis Potosí,Rioverde,56.3
+San Luis Potosí,Salinas,65.8
+San Luis Potosí,San Antonio,90.5
+San Luis Potosí,San Ciro de Acosta,67.1
+San Luis Potosí,San Luis Potosí,24
+San Luis Potosí,San Martín Chalchicuautla,83.3
+San Luis Potosí,San Nicolás Tolentino,72.3
+San Luis Potosí,Santa Catarina,91.9
+San Luis Potosí,Santa María del Río,60.3
+San Luis Potosí,Santo Domingo,66.6
+San Luis Potosí,San Vicente Tancuayalab,74.2
+San Luis Potosí,Soledad de Graciano Sánchez,23
+San Luis Potosí,Tamasopo,57.7
+San Luis Potosí,Tamazunchale,73.6
+San Luis Potosí,Tampacán,80.9
+San Luis Potosí,Tampamolón Corona,77
+San Luis Potosí,Tamuín,60.2
+San Luis Potosí,Tanlajás,89.3
+San Luis Potosí,Tanquián de Escobedo,68.5
+San Luis Potosí,Tierra Nueva,75.6
+San Luis Potosí,Vanegas,80.4
+San Luis Potosí,Venado,66.3
+San Luis Potosí,Villa de Arriaga,69.7
+San Luis Potosí,Villa de Guadalupe,78.6
+San Luis Potosí,Villa de la Paz,43.1
+San Luis Potosí,Villa de Ramos,85.6
+San Luis Potosí,Villa de Reyes,46.8
+San Luis Potosí,Villa Hidalgo,53.9
+San Luis Potosí,Villa Juárez,70.1
+San Luis Potosí,Axtla de Terrazas,77.5
+San Luis Potosí,Xilitla,84.6
+San Luis Potosí,Zaragoza,45.2
+San Luis Potosí,Villa de Arista,68.2
+San Luis Potosí,Matlapa,81.9
+San Luis Potosí,El Naranjo,50.9
+Sinaloa,Ahome,31.5
+Sinaloa,Angostura,38
+Sinaloa,Badiraguato,66.1
+Sinaloa,Concordia,44.3
+Sinaloa,Cosalá,60.2
+Sinaloa,Culiacán,24.9
+Sinaloa,Choix,54.9
+Sinaloa,Elota,34.2
+Sinaloa,Escuinapa,47.9
+Sinaloa,El Fuerte,44.7
+Sinaloa,Guasave,41.5
+Sinaloa,Mazatlán,26.8
+Sinaloa,Mocorito,50.4
+Sinaloa,Rosario,40.5
+Sinaloa,Salvador Alvarado,35
+Sinaloa,San Ignacio,49.1
+Sinaloa,Sinaloa,52.3
+Sinaloa,Navolato,34
+Sonora,Aconchi,19.7
+Sonora,Agua Prieta,33.1
+Sonora,Alamos,50.2
+Sonora,Altar,46.9
+Sonora,Arivechi,26.4
+Sonora,Arizpe,26.1
+Sonora,Atil,4.1
+Sonora,Bacadéhuachi,34.2
+Sonora,Bacanora,14
+Sonora,Bacerac,43.8
+Sonora,Bacoachi,34.4
+Sonora,Bácum,46.3
+Sonora,Banámichi,22.2
+Sonora,Baviácora,15.4
+Sonora,Bavispe,45.5
+Sonora,Benjamín Hill,31.2
+Sonora,Caborca,31.6
+Sonora,Cajeme,28.8
+Sonora,Cananea,26.1
+Sonora,Carbó,42.3
+Sonora,La Colorada,23.6
+Sonora,Cucurpe,19.1
+Sonora,Cumpas,22.9
+Sonora,Divisaderos,22.7
+Sonora,Empalme,28.3
+Sonora,Etchojoa,50.2
+Sonora,Fronteras,24.1
+Sonora,Granados,8.7
+Sonora,Guaymas,30.7
+Sonora,Hermosillo,19.4
+Sonora,Huachinera,30
+Sonora,Huásabas,11.7
+Sonora,Huatabampo,46.3
+Sonora,Huépac,2.7
+Sonora,Imuris,27.9
+Sonora,Magdalena,28.9
+Sonora,Mazatán,19.5
+Sonora,Moctezuma,22.3
+Sonora,Naco,30.6
+Sonora,Nácori Chico,61
+Sonora,Nacozari de García,15.7
+Sonora,Navojoa,36.2
+Sonora,Nogales,23.9
+Sonora,Onavas,5.7
+Sonora,Opodepe,30
+Sonora,Oquitoa,4.7
+Sonora,Pitiquito,27.1
+Sonora,Puerto Peñasco,39.8
+Sonora,Quiriego,61.3
+Sonora,Rayón,30.9
+Sonora,Rosario,49.7
+Sonora,Sahuaripa,40.1
+Sonora,San Felipe de Jesús,4.3
+Sonora,San Javier,5.9
+Sonora,San Luis Río Colorado,40.3
+Sonora,San Miguel de Horcasitas,48.4
+Sonora,San Pedro de la Cueva,17.9
+Sonora,Santa Ana,25.6
+Sonora,Santa Cruz,35.1
+Sonora,Sáric,27.4
+Sonora,Soyopa,23.8
+Sonora,Suaqui Grande,11.8
+Sonora,Tepache,15.6
+Sonora,Trincheras,22
+Sonora,Tubutama,22.3
+Sonora,Ures,18.6
+Sonora,Villa Hidalgo,19.9
+Sonora,Villa Pesqueira,38.4
+Sonora,Yécora,71.7
+Sonora,General Plutarco Elías Calles,0
+Sonora,Benito Juárez,43.3
+Sonora,San Ignacio Río Muerto,56
+Tabasco,Balancán,58.1
+Tabasco,Cárdenas,55.3
+Tabasco,Centla,59.7
+Tabasco,Centro,29
+Tabasco,Comalcalco,48.9
+Tabasco,Cunduacán,48.9
+Tabasco,Emiliano Zapata,49.2
+Tabasco,Huimanguillo,56.3
+Tabasco,Jalapa,49.1
+Tabasco,Jalpa de Méndez,50.2
+Tabasco,Jonuta,69
+Tabasco,Macuspana,54.1
+Tabasco,Nacajuca,36.2
+Tabasco,Paraíso,39.3
+Tabasco,Tacotalpa,64.9
+Tabasco,Teapa,41
+Tabasco,Tenosique,55.4
+Tamaulipas,Abasolo,62.8
+Tamaulipas,Aldama,53
+Tamaulipas,Altamira,42
+Tamaulipas,Antiguo Morelos,58.8
+Tamaulipas,Burgos,66
+Tamaulipas,Bustamante,89.8
+Tamaulipas,Camargo,39.1
+Tamaulipas,Casas,66.7
+Tamaulipas,Ciudad Madero,27.9
+Tamaulipas,Cruillas,61.5
+Tamaulipas,Gómez Farías,74.6
+Tamaulipas,González,59.7
+Tamaulipas,Güémez,53.4
+Tamaulipas,Guerrero,54.5
+Tamaulipas,Gustavo Díaz Ordaz,41.9
+Tamaulipas,Hidalgo,71.6
+Tamaulipas,Jaumave,65.2
+Tamaulipas,Jiménez,61.3
+Tamaulipas,Llera,66.5
+Tamaulipas,Mainero,73
+Tamaulipas,El Mante,43.9
+Tamaulipas,Matamoros,39.7
+Tamaulipas,Méndez,55.2
+Tamaulipas,Mier,66.2
+Tamaulipas,Miguel Alemán,44.9
+Tamaulipas,Miquihuana,85.3
+Tamaulipas,Nuevo Laredo,35.5
+Tamaulipas,Nuevo Morelos,54.4
+Tamaulipas,Ocampo,67.1
+Tamaulipas,Padilla,62.2
+Tamaulipas,Palmillas,70.5
+Tamaulipas,Reynosa,34.8
+Tamaulipas,Río Bravo,45.2
+Tamaulipas,San Carlos,79.6
+Tamaulipas,San Fernando,66.5
+Tamaulipas,San Nicolás,77.6
+Tamaulipas,Soto la Marina,52.2
+Tamaulipas,Tampico,28.7
+Tamaulipas,Tula,69.6
+Tamaulipas,Valle Hermoso,47.9
+Tamaulipas,Victoria,30
+Tamaulipas,Villagrán,70.1
+Tamaulipas,Xicoténcatl,45.6
+Tlaxcala,Amaxac de Guerrero,43
+Tlaxcala,Apetatitlán de Antonio Carvajal,38
+Tlaxcala,Atlangatepec,62
+Tlaxcala,Atltzayanca,67.8
+Tlaxcala,Apizaco,38.9
+Tlaxcala,Calpulalpan,55.8
+Tlaxcala,El Carmen Tequexquitla,72.8
+Tlaxcala,Cuapiaxtla,68.7
+Tlaxcala,Cuaxomulco,64.1
+Tlaxcala,Chiautempan,46.5
+Tlaxcala,Muñoz de Domingo Arenas,57.9
+Tlaxcala,Españita,69.7
+Tlaxcala,Huamantla,59.1
+Tlaxcala,Hueyotlipan,66.1
+Tlaxcala,Ixtacuixtla de Mariano Matamoros,50.9
+Tlaxcala,Ixtenco,71.7
+Tlaxcala,Mazatecochco de José María Morelos,69.6
+Tlaxcala,Contla de Juan Cuamatzi,55.3
+Tlaxcala,Tepetitla de Lardizábal,54.6
+Tlaxcala,Sanctórum de Lázaro Cárdenas,81.4
+Tlaxcala,Nanacamilpa de Mariano Arista,60.7
+Tlaxcala,Acuamanala de Miguel Hidalgo,42.8
+Tlaxcala,Natívitas,54
+Tlaxcala,Panotla,37.1
+Tlaxcala,San Pablo del Monte,63.2
+Tlaxcala,Santa Cruz Tlaxcala,44.3
+Tlaxcala,Tenancingo,57.2
+Tlaxcala,Teolocholco,47.6
+Tlaxcala,Tepeyanco,40.2
+Tlaxcala,Terrenate,70.5
+Tlaxcala,Tetla de la Solidaridad,45.9
+Tlaxcala,Tetlatlahuca,50.5
+Tlaxcala,Tlaxcala,33.6
+Tlaxcala,Tlaxco,60.2
+Tlaxcala,Tocatlán,74.2
+Tlaxcala,Totolac,31.4
+Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,88.9
+Tlaxcala,Tzompantepec,46.4
+Tlaxcala,Xaloztoc,53.7
+Tlaxcala,Xaltocan,49
+Tlaxcala,Papalotla de Xicohténcatl,47.2
+Tlaxcala,Xicohtzinco,37.9
+Tlaxcala,Yauhquemehcan,41.2
+Tlaxcala,Zacatelco,46.4
+Tlaxcala,Benito Juárez,86.2
+Tlaxcala,Emiliano Zapata,87.7
+Tlaxcala,Lázaro Cárdenas,63.6
+Tlaxcala,La Magdalena Tlaltelulco,61
+Tlaxcala,San Damián Texóloc,59.2
+Tlaxcala,San Francisco Tetlanohcan,58.1
+Tlaxcala,San Jerónimo Zacualpan,55.7
+Tlaxcala,San José Teacalco,81.5
+Tlaxcala,San Juan Huactzinco,69.3
+Tlaxcala,San Lorenzo Axocomanitla,59.3
+Tlaxcala,San Lucas Tecopilco,75.6
+Tlaxcala,Santa Ana Nopalucan,69.7
+Tlaxcala,Santa Apolonia Teacalco,65.3
+Tlaxcala,Santa Catarina Ayometla,66.4
+Tlaxcala,Santa Cruz Quilehtla,76.2
+Tlaxcala,Santa Isabel Xiloxoxtla,70.8
+Veracruz,Acajete,62.3
+Veracruz,Acatlán,91.8
+Veracruz,Acayucan,63.6
+Veracruz,Actopan,54.6
+Veracruz,Acula,56.2
+Veracruz,Acultzingo,72.7
+Veracruz,Camarón de Tejeda,63.2
+Veracruz,Alpatláhuac,86
+Veracruz,Alto Lucero de Gutiérrez Barrios,70.5
+Veracruz,Altotonga,76.9
+Veracruz,Alvarado,47.4
+Veracruz,Amatitlán,39.3
+Veracruz,Naranjos Amatlán,53.4
+Veracruz,Amatlán de los Reyes,52.3
+Veracruz,Angel R. Cabada,60.3
+Veracruz,La Antigua,39.9
+Veracruz,Apazapan,55.5
+Veracruz,Aquila,94.8
+Veracruz,Astacinga,96.1
+Veracruz,Atlahuilco,88.1
+Veracruz,Atoyac,63.4
+Veracruz,Atzacan,77
+Veracruz,Atzalan,82.7
+Veracruz,Tlaltetela,74.8
+Veracruz,Ayahualulco,91.5
+Veracruz,Banderilla,47.2
+Veracruz,Benito Juárez,80.1
+Veracruz,Boca del Río,30
+Veracruz,Calcahualco,95.3
+Veracruz,Camerino Z. Mendoza,58.1
+Veracruz,Carrillo Puerto,69
+Veracruz,Catemaco,77.5
+Veracruz,Cazones de Herrera,68.8
+Veracruz,Cerro Azul,50
+Veracruz,Citlaltépetl,78.3
+Veracruz,Coacoatzintla,77.9
+Veracruz,Coahuitlán,91.7
+Veracruz,Coatepec,44.8
+Veracruz,Coatzacoalcos,38.3
+Veracruz,Coatzintla,47.4
+Veracruz,Coetzala,70.9
+Veracruz,Colipa,70.2
+Veracruz,Comapa,79.8
+Veracruz,Córdoba,47.6
+Veracruz,Cosamaloapan de Carpio,52.2
+Veracruz,Cosautlán de Carvajal,78.1
+Veracruz,Coscomatepec,78.9
+Veracruz,Cosoleacaque,50.7
+Veracruz,Cotaxtla,55.3
+Veracruz,Coxquihui,80.2
+Veracruz,Coyutla,82.1
+Veracruz,Cuichapa,59.7
+Veracruz,Cuitláhuac,53.9
+Veracruz,Chacaltianguis,52.4
+Veracruz,Chalma,68.2
+Veracruz,Chiconamel,83
+Veracruz,Chiconquiaco,90.4
+Veracruz,Chicontepec,79.1
+Veracruz,Chinameca,60.2
+Veracruz,Chinampa de Gorostiza,68.7
+Veracruz,Las Choapas,67
+Veracruz,Chocamán,69.8
+Veracruz,Chontla,70.9
+Veracruz,Chumatlán,90.1
+Veracruz,Emiliano Zapata,40.9
+Veracruz,Espinal,75.3
+Veracruz,Filomeno Mata,96.1
+Veracruz,Fortín,42
+Veracruz,Gutiérrez Zamora,65.5
+Veracruz,Hidalgotitlán,72.7
+Veracruz,Huatusco,67.6
+Veracruz,Huayacocotla,77.3
+Veracruz,Hueyapan de Ocampo,71.6
+Veracruz,Huiloapan de Cuauhtémoc,50.7
+Veracruz,Ignacio de la Llave,71
+Veracruz,Ilamatlán,93.7
+Veracruz,Isla,67.4
+Veracruz,Ixcatepec,79.7
+Veracruz,Ixhuacán de los Reyes,81.3
+Veracruz,Ixhuatlán del Café,80.3
+Veracruz,Ixhuatlancillo,60.4
+Veracruz,Ixhuatlán del Sureste,50.9
+Veracruz,Ixhuatlán de Madero,82.8
+Veracruz,Ixmatlahuacan,43.1
+Veracruz,Ixtaczoquitlán,55.5
+Veracruz,Jalacingo,81
+Veracruz,Xalapa,37.6
+Veracruz,Jalcomulco,83.3
+Veracruz,Jáltipan,60.2
+Veracruz,Jamapa,51.7
+Veracruz,Jesús Carranza,70.6
+Veracruz,Xico,71.2
+Veracruz,Jilotepec,58.2
+Veracruz,Juan Rodríguez Clara,71.3
+Veracruz,Juchique de Ferrer,71
+Veracruz,Landero y Coss,82.4
+Veracruz,Lerdo de Tejada,47.7
+Veracruz,Magdalena,85.6
+Veracruz,Maltrata,79.5
+Veracruz,Manlio Fabio Altamirano,54.5
+Veracruz,Mariano Escobedo,66.7
+Veracruz,Martínez de la Torre,51.1
+Veracruz,Mecatlán,95.2
+Veracruz,Mecayapan,91.4
+Veracruz,Medellín,40.7
+Veracruz,Miahuatlán,91
+Veracruz,Las Minas,86.1
+Veracruz,Minatitlán,47.8
+Veracruz,Misantla,66.4
+Veracruz,Mixtla de Altamirano,95.3
+Veracruz,Moloacán,53.2
+Veracruz,Naolinco,62.4
+Veracruz,Naranjal,66.1
+Veracruz,Nautla,56.4
+Veracruz,Nogales,56.6
+Veracruz,Oluta,67.5
+Veracruz,Omealca,68.3
+Veracruz,Orizaba,40.4
+Veracruz,Otatitlán,70.2
+Veracruz,Oteapan,76.5
+Veracruz,Ozuluama de Mascareñas,59
+Veracruz,Pajapan,83.9
+Veracruz,Pánuco,55.4
+Veracruz,Papantla,62.9
+Veracruz,Paso del Macho,60.2
+Veracruz,Paso de Ovejas,47.5
+Veracruz,La Perla,90.3
+Veracruz,Perote,71
+Veracruz,Platón Sánchez,77.6
+Veracruz,Playa Vicente,72.3
+Veracruz,Poza Rica de Hidalgo,41.4
+Veracruz,Las Vigas de Ramírez,76.1
+Veracruz,Pueblo Viejo,57.8
+Veracruz,Puente Nacional,49.7
+Veracruz,Rafael Delgado,76.9
+Veracruz,Rafael Lucio,58.8
+Veracruz,Los Reyes,90.5
+Veracruz,Río Blanco,46.2
+Veracruz,Saltabarranca,46.5
+Veracruz,San Andrés Tenejapan,78.1
+Veracruz,San Andrés Tuxtla,75.2
+Veracruz,San Juan Evangelista,71.3
+Veracruz,Santiago Tuxtla,74.9
+Veracruz,Sayula de Alemán,70.5
+Veracruz,Soconusco,58.9
+Veracruz,Sochiapa,70.8
+Veracruz,Soledad Atzompa,95.3
+Veracruz,Soledad de Doblado,63.7
+Veracruz,Soteapan,89.3
+Veracruz,Tamalín,75.7
+Veracruz,Tamiahua,66.9
+Veracruz,Tampico Alto,58.1
+Veracruz,Tancoco,65.6
+Veracruz,Tantima,64.2
+Veracruz,Tantoyuca,74.5
+Veracruz,Tatatila,87.2
+Veracruz,Castillo de Teayo,72.1
+Veracruz,Tecolutla,67
+Veracruz,Tehuipango,96.5
+Veracruz,Álamo Temapache,67.5
+Veracruz,Tempoal,71.7
+Veracruz,Tenampa,75
+Veracruz,Tenochtitlán,84
+Veracruz,Teocelo,65
+Veracruz,Tepatlaxco,76.7
+Veracruz,Tepetlán,69.3
+Veracruz,Tepetzintla,75.5
+Veracruz,Tequila,86.9
+Veracruz,José Azueta,69.4
+Veracruz,Texcatepec,94.4
+Veracruz,Texhuacán,86.4
+Veracruz,Texistepec,71.3
+Veracruz,Tezonapa,73.7
+Veracruz,Tierra Blanca,51.2
+Veracruz,Tihuatlán,56.7
+Veracruz,Tlacojalpan,71.7
+Veracruz,Tlacolulan,75.5
+Veracruz,Tlacotalpan,58
+Veracruz,Tlacotepec de Mejía,72.2
+Veracruz,Tlachichilco,84.9
+Veracruz,Tlalixcoyan,65.7
+Veracruz,Tlalnelhuayocan,60.6
+Veracruz,Tlapacoyan,73.1
+Veracruz,Tlaquilpa,93.2
+Veracruz,Tlilapan,74.9
+Veracruz,Tomatlán,65.9
+Veracruz,Tonayán,85.5
+Veracruz,Totutla,76.1
+Veracruz,Tuxpan,45.1
+Veracruz,Tuxtilla,41.6
+Veracruz,Ursulo Galván,34.9
+Veracruz,Vega de Alatorre,64.9
+Veracruz,Veracruz,33.2
+Veracruz,Villa Aldama,77.6
+Veracruz,Xoxocotla,90.7
+Veracruz,Yanga,49.5
+Veracruz,Yecuatla,77
+Veracruz,Zacualpan,84.5
+Veracruz,Zaragoza,76.1
+Veracruz,Zentla,62.3
+Veracruz,Zongolica,82
+Veracruz,Zontecomatlán de López y Fuentes,86.3
+Veracruz,Zozocolco de Hidalgo,86.7
+Veracruz,Agua Dulce,51.2
+Veracruz,El Higo,49.2
+Veracruz,Nanchital de Lázaro Cárdenas del Río,33.3
+Veracruz,Tres Valles,57.6
+Veracruz,Carlos A. Carrillo,38.7
+Veracruz,Tatahuicapan de Juárez,83.8
+Veracruz,Uxpanapa,84
+Veracruz,San Rafael,54.7
+Veracruz,Santiago Sochiapan,85.4
+Yucatán,Abalá,49.4
+Yucatán,Acanceh,44.7
+Yucatán,Akil,64
+Yucatán,Baca,47.6
+Yucatán,Bokobá,28.8
+Yucatán,Buctzotz,75.7
+Yucatán,Cacalchén,58.4
+Yucatán,Calotmul,88.7
+Yucatán,Cansahcab,59.7
+Yucatán,Cantamayec,67.7
+Yucatán,Celestún,79.4
+Yucatán,Cenotillo,82.1
+Yucatán,Conkal,27
+Yucatán,Cuncunul,59.7
+Yucatán,Cuzamá,72
+Yucatán,Chacsinkín,90.1
+Yucatán,Chankom,87.3
+Yucatán,Chapab,63.6
+Yucatán,Chemax,79.6
+Yucatán,Chicxulub Pueblo,56.7
+Yucatán,Chichimilá,88.8
+Yucatán,Chikindzonot,93.2
+Yucatán,Chocholá,53.6
+Yucatán,Chumayel,85.5
+Yucatán,Dzán,83.4
+Yucatán,Dzemul,50.3
+Yucatán,Dzidzantún,47.6
+Yucatán,Dzilam de Bravo,47.3
+Yucatán,Dzilam González,71.9
+Yucatán,Dzitás,86.8
+Yucatán,Dzoncauich,63.1
+Yucatán,Espita,75.8
+Yucatán,Halachó,55.1
+Yucatán,Hocabá,70.8
+Yucatán,Hoctún,72.9
+Yucatán,Homún,72.1
+Yucatán,Huhí,84.5
+Yucatán,Hunucmá,55.8
+Yucatán,Ixil,55.7
+Yucatán,Izamal,48.9
+Yucatán,Kanasín,40.6
+Yucatán,Kantunil,82.1
+Yucatán,Kaua,81.1
+Yucatán,Kinchil,65.1
+Yucatán,Kopomá,45.2
+Yucatán,Mama,78.9
+Yucatán,Maní,77.7
+Yucatán,Maxcanú,41.7
+Yucatán,Mayapán,92.4
+Yucatán,Mérida,22.9
+Yucatán,Mocochá,32
+Yucatán,Motul,47.1
+Yucatán,Muna,61.5
+Yucatán,Muxupip,41.3
+Yucatán,Opichén,75.1
+Yucatán,Oxkutzcab,64.3
+Yucatán,Panabá,73.7
+Yucatán,Peto,70.1
+Yucatán,Progreso,37.4
+Yucatán,Quintana Roo,56.4
+Yucatán,Río Lagartos,24.2
+Yucatán,Sacalum,73.8
+Yucatán,Samahil,49.9
+Yucatán,Sanahcat,51.9
+Yucatán,San Felipe,18.9
+Yucatán,Santa Elena,80.1
+Yucatán,Seyé,72.8
+Yucatán,Sinanché,68.2
+Yucatán,Sotuta,82.9
+Yucatán,Sucilá,71.7
+Yucatán,Sudzal,48.9
+Yucatán,Suma,54.4
+Yucatán,Tahdziú,94.1
+Yucatán,Tahmek,72.3
+Yucatán,Teabo,80.5
+Yucatán,Tecoh,50.6
+Yucatán,Tekal de Venegas,87.8
+Yucatán,Tekantó,71.3
+Yucatán,Tekax,55.4
+Yucatán,Tekit,70
+Yucatán,Tekom,92
+Yucatán,Telchac Pueblo,61
+Yucatán,Telchac Puerto,36.7
+Yucatán,Temax,79.4
+Yucatán,Temozón,73.3
+Yucatán,Tepakán,55
+Yucatán,Tetiz,64
+Yucatán,Teya,62.1
+Yucatán,Ticul,57.2
+Yucatán,Timucuy,61.8
+Yucatán,Tinum,65.5
+Yucatán,Tixcacalcupul,93
+Yucatán,Tixkokob,37
+Yucatán,Tixmehuac,80.4
+Yucatán,Tixpéhual,43.4
+Yucatán,Tizimín,60.2
+Yucatán,Tunkás,81.7
+Yucatán,Tzucacab,72.2
+Yucatán,Uayma,89.9
+Yucatán,Ucú,49.9
+Yucatán,Umán,36.4
+Yucatán,Valladolid,54.4
+Yucatán,Xocchel,76.9
+Yucatán,Yaxcabá,70.7
+Yucatán,Yaxkukul,55.9
+Yucatán,Yobaín,50.6
+Zacatecas,Apozol,61.8
+Zacatecas,Apulco,70.6
+Zacatecas,Atolinga,58.3
+Zacatecas,Benito Juárez,75.1
+Zacatecas,Calera,49.4
+Zacatecas,Cañitas de Felipe Pescador,67.3
+Zacatecas,Concepción del Oro,28.6
+Zacatecas,Cuauhtémoc,61.5
+Zacatecas,Chalchihuites,59
+Zacatecas,Fresnillo,46.3
+Zacatecas,Trinidad García de la Cadena,47.9
+Zacatecas,Genaro Codina,66.1
+Zacatecas,General Enrique Estrada,54
+Zacatecas,General Francisco R. Murguía,75.2
+Zacatecas,El Plateado de Joaquín Amaro,77
+Zacatecas,General Pánfilo Natera,71.8
+Zacatecas,Guadalupe,28.6
+Zacatecas,Huanusco,55.8
+Zacatecas,Jalpa,50.9
+Zacatecas,Jerez,57.8
+Zacatecas,Jiménez del Teul,78.4
+Zacatecas,Juan Aldama,65
+Zacatecas,Juchipila,44.2
+Zacatecas,Loreto,61.7
+Zacatecas,Luis Moya,53.1
+Zacatecas,Mazapil,59.9
+Zacatecas,Melchor Ocampo,53.2
+Zacatecas,Mezquital del Oro,72.9
+Zacatecas,Miguel Auza,62.7
+Zacatecas,Momax,57.6
+Zacatecas,Monte Escobedo,64.4
+Zacatecas,Morelos,39.6
+Zacatecas,Moyahua de Estrada,59.7
+Zacatecas,Nochistlán de Mejía,61.6
+Zacatecas,Noria de Ángeles,69.9
+Zacatecas,Ojocaliente,63
+Zacatecas,Pánuco,59.7
+Zacatecas,Pinos,77.6
+Zacatecas,Río Grande,51.6
+Zacatecas,Sain Alto,72.6
+Zacatecas,El Salvador,74.6
+Zacatecas,Sombrerete,53.2
+Zacatecas,Susticacán,68.4
+Zacatecas,Tabasco,61.1
+Zacatecas,Tepechitlán,59.3
+Zacatecas,Tepetongo,64.7
+Zacatecas,Teúl de González Ortega,57.5
+Zacatecas,Tlaltenango de Sánchez Román,51.4
+Zacatecas,Valparaíso,67.2
+Zacatecas,Vetagrande,58.2
+Zacatecas,Villa de Cos,70.8
+Zacatecas,Villa García,47.7
+Zacatecas,Villa González Ortega,69.1
+Zacatecas,Villa Hidalgo,71.8
+Zacatecas,Villanueva,61
+Zacatecas,Zacatecas,25.9
+Zacatecas,Trancoso,63.1
+Zacatecas,Santa María de la Paz,57.4

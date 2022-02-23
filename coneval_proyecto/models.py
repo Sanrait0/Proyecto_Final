@@ -12,7 +12,7 @@ from django.db import models
 class ConevalProyectoModel(models.Model):
     state = models.CharField(max_length=256)
     county = models.CharField(max_length=64)
-    pct_pob = models.DecimalField(decimal_places=2, max_digits=15)
+    pct_pob = models.FloatField(default=0.0)
     #product_category = models.ForeignKey("products.ProductCategory", on_delete=models.CASCADE)
 
 """STATES = {
