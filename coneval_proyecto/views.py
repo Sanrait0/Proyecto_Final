@@ -11,4 +11,4 @@ def m_clasificacion(request):
     return render(request, "coneval_proyecto/m_clasificacion.html")
 
 def pobreza(request):
-    return render(request, "coneval_proyecto/prop_pobreza.html")
+    return render(request, "admin")

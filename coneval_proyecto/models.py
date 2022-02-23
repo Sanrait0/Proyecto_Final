@@ -1,8 +1,21 @@
 from django.db import models
 
 # Create your models here.
+from django.db import models
 
-STATES = {
+
+#class ProductCategory(models.Model):
+#    state = models.CharField(max_length=256)
+#    county = models.CharField(max_length=64)
+
+
+class ConevalProyectoModel(models.Model):
+    state = models.CharField(max_length=256)
+    county = models.CharField(max_length=64)
+    pct_pob = models.DecimalField(decimal_places=2, max_digits=15)
+    #product_category = models.ForeignKey("products.ProductCategory", on_delete=models.CASCADE)
+
+"""STATES = {
     (1, "Aguascalientes"),
     (2, "Baja California"),
     (3, "Baja California Sur"),
@@ -38,4 +51,4 @@ STATES = {
 }
 
 class ConevalProyectoModel(models.Model):
-    state = models.FloatField(default=1, choices=STATES)
+    state = models.FloatField(default=1, choices=STATES)"""

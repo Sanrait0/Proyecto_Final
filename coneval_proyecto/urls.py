@@ -6,6 +6,6 @@ urlpatterns = [
     path('carencias', views.carencias, name="carencias"),
     path('index', views.index, name="index"),
     path('m_clasificacion', views.m_clasificacion, name="clasificacion"),
-    path('prop_pobreza', views.pobreza, name="pobreza"),
+    path('', views.pobreza, name="admin"),
 ]
 
